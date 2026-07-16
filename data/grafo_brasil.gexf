@@ -1,0 +1,229 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-07-15">
+    <creator>NetworkX 3.6.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="x" type="double" />
+      <attribute id="1" title="y" type="double" />
+    </attributes>
+    <nodes>
+      <node id="Acre" label="Acre">
+        <attvalues>
+          <attvalue for="0" value="-70.44480982811645" />
+          <attvalue for="1" value="-9.308571296288253" />
+        </attvalues>
+      </node>
+      <node id="Alagoas" label="Alagoas">
+        <attvalues>
+          <attvalue for="0" value="-36.622454500474255" />
+          <attvalue for="1" value="-9.51502328017752" />
+        </attvalues>
+      </node>
+      <node id="Amapá" label="Amapá">
+        <attvalues>
+          <attvalue for="0" value="-51.95547541910285" />
+          <attvalue for="1" value="1.4437674537762812" />
+        </attvalues>
+      </node>
+      <node id="Amazonas" label="Amazonas">
+        <attvalues>
+          <attvalue for="0" value="-64.69847175800888" />
+          <attvalue for="1" value="-4.182100547968881" />
+        </attvalues>
+      </node>
+      <node id="Bahia" label="Bahia">
+        <attvalues>
+          <attvalue for="0" value="-41.72194977781638" />
+          <attvalue for="1" value="-12.474112213236904" />
+        </attvalues>
+      </node>
+      <node id="Ceará" label="Ceará">
+        <attvalues>
+          <attvalue for="0" value="-39.617549142619616" />
+          <attvalue for="1" value="-5.09086090804496" />
+        </attvalues>
+      </node>
+      <node id="Distrito Federal" label="Distrito Federal">
+        <attvalues>
+          <attvalue for="0" value="-47.79665388560586" />
+          <attvalue for="1" value="-15.78084024726269" />
+        </attvalues>
+      </node>
+      <node id="Espírito Santo" label="Espírito Santo">
+        <attvalues>
+          <attvalue for="0" value="-40.670618601715766" />
+          <attvalue for="1" value="-19.57433635966701" />
+        </attvalues>
+      </node>
+      <node id="Goiás" label="Goiás">
+        <attvalues>
+          <attvalue for="0" value="-49.6232968494525" />
+          <attvalue for="1" value="-16.041795832907898" />
+        </attvalues>
+      </node>
+      <node id="Maranhão" label="Maranhão">
+        <attvalues>
+          <attvalue for="0" value="-45.278879954829186" />
+          <attvalue for="1" value="-5.0549657328778865" />
+        </attvalues>
+      </node>
+      <node id="Mato Grosso" label="Mato Grosso">
+        <attvalues>
+          <attvalue for="0" value="-55.91225874675038" />
+          <attvalue for="1" value="-12.948444855148294" />
+        </attvalues>
+      </node>
+      <node id="Mato Grosso do Sul" label="Mato Grosso do Sul">
+        <attvalues>
+          <attvalue for="0" value="-54.844972507833866" />
+          <attvalue for="1" value="-20.326711280040286" />
+        </attvalues>
+      </node>
+      <node id="Minas Gerais" label="Minas Gerais">
+        <attvalues>
+          <attvalue for="0" value="-44.67294148549211" />
+          <attvalue for="1" value="-18.45572263346849" />
+        </attvalues>
+      </node>
+      <node id="Paraná" label="Paraná">
+        <attvalues>
+          <attvalue for="0" value="-51.61605394651225" />
+          <attvalue for="1" value="-24.635462862802317" />
+        </attvalues>
+      </node>
+      <node id="Paraíba" label="Paraíba">
+        <attvalues>
+          <attvalue for="0" value="-36.832313053694826" />
+          <attvalue for="1" value="-7.120640533918732" />
+        </attvalues>
+      </node>
+      <node id="Pará" label="Pará">
+        <attvalues>
+          <attvalue for="0" value="-53.0650128443565" />
+          <attvalue for="1" value="-3.9748950762184823" />
+        </attvalues>
+      </node>
+      <node id="Pernambuco" label="Pernambuco">
+        <attvalues>
+          <attvalue for="0" value="-37.9958216787091" />
+          <attvalue for="1" value="-8.324797397284312" />
+        </attvalues>
+      </node>
+      <node id="Piauí" label="Piauí">
+        <attvalues>
+          <attvalue for="0" value="-42.968699154048196" />
+          <attvalue for="1" value="-7.38742721714458" />
+        </attvalues>
+      </node>
+      <node id="Rio Grande do Norte" label="Rio Grande do Norte">
+        <attvalues>
+          <attvalue for="0" value="-36.67298019332713" />
+          <attvalue for="1" value="-5.839432912485479" />
+        </attvalues>
+      </node>
+      <node id="Rio Grande do Sul" label="Rio Grande do Sul">
+        <attvalues>
+          <attvalue for="0" value="-53.31909746413961" />
+          <attvalue for="1" value="-29.7059226937626" />
+        </attvalues>
+      </node>
+      <node id="Rio de Janeiro" label="Rio de Janeiro">
+        <attvalues>
+          <attvalue for="0" value="-42.661587716374015" />
+          <attvalue for="1" value="-22.19478661454719" />
+        </attvalues>
+      </node>
+      <node id="Rondônia" label="Rondônia">
+        <attvalues>
+          <attvalue for="0" value="-62.84331955769617" />
+          <attvalue for="1" value="-10.911344992807107" />
+        </attvalues>
+      </node>
+      <node id="Roraima" label="Roraima">
+        <attvalues>
+          <attvalue for="0" value="-61.399029734241665" />
+          <attvalue for="1" value="2.084622599638674" />
+        </attvalues>
+      </node>
+      <node id="Santa Catarina" label="Santa Catarina">
+        <attvalues>
+          <attvalue for="0" value="-50.480230322915645" />
+          <attvalue for="1" value="-27.245666516971426" />
+        </attvalues>
+      </node>
+      <node id="Sergipe" label="Sergipe">
+        <attvalues>
+          <attvalue for="0" value="-37.44386486798781" />
+          <attvalue for="1" value="-10.584101603103159" />
+        </attvalues>
+      </node>
+      <node id="São Paulo" label="São Paulo">
+        <attvalues>
+          <attvalue for="0" value="-48.728499180509296" />
+          <attvalue for="1" value="-22.265219446185938" />
+        </attvalues>
+      </node>
+      <node id="Tocantins" label="Tocantins">
+        <attvalues>
+          <attvalue for="0" value="-48.329583101452556" />
+          <attvalue for="1" value="-10.149773690466283" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Acre" target="Amazonas" id="0" weight="1.0" />
+      <edge source="Acre" target="Rondônia" id="1" weight="1.0" />
+      <edge source="Alagoas" target="Bahia" id="2" weight="1.0" />
+      <edge source="Alagoas" target="Pernambuco" id="3" weight="1.0" />
+      <edge source="Alagoas" target="Sergipe" id="4" weight="1.0" />
+      <edge source="Amapá" target="Pará" id="5" weight="1.0" />
+      <edge source="Amazonas" target="Mato Grosso" id="6" weight="1.0" />
+      <edge source="Amazonas" target="Pará" id="7" weight="1.0" />
+      <edge source="Amazonas" target="Rondônia" id="8" weight="1.0" />
+      <edge source="Amazonas" target="Roraima" id="9" weight="1.0" />
+      <edge source="Bahia" target="Espírito Santo" id="10" weight="1.0" />
+      <edge source="Bahia" target="Goiás" id="11" weight="1.0" />
+      <edge source="Bahia" target="Minas Gerais" id="12" weight="1.0" />
+      <edge source="Bahia" target="Pernambuco" id="13" weight="1.0" />
+      <edge source="Bahia" target="Piauí" id="14" weight="1.0" />
+      <edge source="Bahia" target="Sergipe" id="15" weight="1.0" />
+      <edge source="Bahia" target="Tocantins" id="16" weight="1.0" />
+      <edge source="Ceará" target="Paraíba" id="17" weight="1.0" />
+      <edge source="Ceará" target="Pernambuco" id="18" weight="1.0" />
+      <edge source="Ceará" target="Piauí" id="19" weight="1.0" />
+      <edge source="Ceará" target="Rio Grande do Norte" id="20" weight="1.0" />
+      <edge source="Distrito Federal" target="Goiás" id="21" weight="1.0" />
+      <edge source="Distrito Federal" target="Minas Gerais" id="22" weight="1.0" />
+      <edge source="Espírito Santo" target="Minas Gerais" id="23" weight="1.0" />
+      <edge source="Espírito Santo" target="Rio de Janeiro" id="24" weight="1.0" />
+      <edge source="Goiás" target="Mato Grosso" id="25" weight="1.0" />
+      <edge source="Goiás" target="Mato Grosso do Sul" id="26" weight="1.0" />
+      <edge source="Goiás" target="Minas Gerais" id="27" weight="1.0" />
+      <edge source="Goiás" target="Tocantins" id="28" weight="1.0" />
+      <edge source="Maranhão" target="Pará" id="29" weight="1.0" />
+      <edge source="Maranhão" target="Piauí" id="30" weight="1.0" />
+      <edge source="Maranhão" target="Tocantins" id="31" weight="1.0" />
+      <edge source="Mato Grosso" target="Mato Grosso do Sul" id="32" weight="1.0" />
+      <edge source="Mato Grosso" target="Pará" id="33" weight="1.0" />
+      <edge source="Mato Grosso" target="Rondônia" id="34" weight="1.0" />
+      <edge source="Mato Grosso" target="Tocantins" id="35" weight="1.0" />
+      <edge source="Mato Grosso do Sul" target="Minas Gerais" id="36" weight="1.0" />
+      <edge source="Mato Grosso do Sul" target="Paraná" id="37" weight="1.0" />
+      <edge source="Mato Grosso do Sul" target="São Paulo" id="38" weight="1.0" />
+      <edge source="Minas Gerais" target="Rio de Janeiro" id="39" weight="1.0" />
+      <edge source="Minas Gerais" target="São Paulo" id="40" weight="1.0" />
+      <edge source="Paraná" target="Santa Catarina" id="41" weight="1.0" />
+      <edge source="Paraná" target="São Paulo" id="42" weight="1.0" />
+      <edge source="Paraíba" target="Pernambuco" id="43" weight="1.0" />
+      <edge source="Paraíba" target="Rio Grande do Norte" id="44" weight="1.0" />
+      <edge source="Pará" target="Roraima" id="45" weight="1.0" />
+      <edge source="Pará" target="Tocantins" id="46" weight="1.0" />
+      <edge source="Pernambuco" target="Piauí" id="47" weight="1.0" />
+      <edge source="Piauí" target="Tocantins" id="48" weight="1.0" />
+      <edge source="Rio Grande do Sul" target="Santa Catarina" id="49" weight="1.0" />
+      <edge source="Rio de Janeiro" target="São Paulo" id="50" weight="1.0" />
+    </edges>
+  </graph>
+</gexf>
