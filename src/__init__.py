@@ -1,0 +1,1 @@
+"""Map coloring CSP package."""
