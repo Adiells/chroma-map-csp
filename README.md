@@ -16,6 +16,14 @@ Para instalar as dependências do projeto, utilize o arquivo `requeriments.txt`.
 pip install -r requeriments.txt && pip install --no-deps geobr
 ```
 
+## 🧠 Heurísticas Utilizadas
+
+O solver de backtracking utiliza técnicas de ordenação de variáveis para otimizar a busca:
+
+* **Maior Grau (Degree Heuristic)**: Seleciona o nó que possui a maior quantidade de vizinhos (maior grau no grafo) para tentar reduzir o fator de ramificação o quanto antes.
+* **Mais Restringido (Minimum Remaining Values - MRV)**: Prioriza os nós com a menor quantidade de cores válidas restantes no seu domínio.
+* **Heurísticas Agrupadas**: Combina ambas as heurísticas. Seleciona o nó mais restringido (MRV) e, em caso de empate, escolhe aquele com o maior grau (Degree Heuristic) como critério de desempate.
+
 ## 🚀 Como Rodar o Solver
 
 Você pode executar o solver para colorir os mapas passando o caminho do arquivo do grafo (como `data/grafo_brasil.gexf` ou `data/grafo_mundo.gexf`) como argumento:
