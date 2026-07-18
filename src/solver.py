@@ -1,3 +1,5 @@
+import src.heuristicas as heuristicas
+
 def consistente(no, cor, atribuicao, grafo):
     for vizinho in grafo[no]:
         if vizinho in atribuicao and atribuicao[vizinho] == cor:
@@ -11,14 +13,14 @@ def backtrack(atribuicao, grafo, cores):
         return atribuicao
 
     sem_atribuicao = [no for no in grafo if no not in atribuicao]
-    no = sem_atribuicao[0]
+    no = heuristicas.heuristicas_agrupadas(grafo, sem_atribuicao, cores, atribuicao)
 
     for cor in cores:
         if consistente(no, cor, atribuicao, grafo):
             atribuicao[no] = cor
             resultado = backtrack(atribuicao, grafo, cores)
 
-            if resultado is not None:
+            if resultado:
                 return resultado
 
             del atribuicao[no]
