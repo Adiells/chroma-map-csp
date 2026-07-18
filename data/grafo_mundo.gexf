@@ -1,0 +1,1908 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-07-18">
+    <creator>NetworkX 3.6.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="x" type="double" />
+      <attribute id="1" title="y" type="double" />
+    </attributes>
+    <nodes>
+      <node id="Afghanistan" label="Afghanistan">
+        <attvalues>
+          <attvalue for="0" value="66.00844766862315" />
+          <attvalue for="1" value="33.8362670371747" />
+        </attvalues>
+      </node>
+      <node id="Akrotiri Sovereign Base Area" label="Akrotiri Sovereign Base Area">
+        <attvalues>
+          <attvalue for="0" value="32.93399506367824" />
+          <attvalue for="1" value="34.63181339392826" />
+        </attvalues>
+      </node>
+      <node id="Aland" label="Aland">
+        <attvalues>
+          <attvalue for="0" value="20.05558282999652" />
+          <attvalue for="1" value="60.18644723637835" />
+        </attvalues>
+      </node>
+      <node id="Albania" label="Albania">
+        <attvalues>
+          <attvalue for="0" value="20.053819122273122" />
+          <attvalue for="1" value="41.14248213433068" />
+        </attvalues>
+      </node>
+      <node id="Algeria" label="Algeria">
+        <attvalues>
+          <attvalue for="0" value="2.6530913857768414" />
+          <attvalue for="1" value="28.148889643064805" />
+        </attvalues>
+      </node>
+      <node id="American Samoa" label="American Samoa">
+        <attvalues>
+          <attvalue for="0" value="-170.39891983159646" />
+          <attvalue for="1" value="-14.254944330817663" />
+        </attvalues>
+      </node>
+      <node id="Andorra" label="Andorra">
+        <attvalues>
+          <attvalue for="0" value="1.5607561360940787" />
+          <attvalue for="1" value="42.541326538774214" />
+        </attvalues>
+      </node>
+      <node id="Angola" label="Angola">
+        <attvalues>
+          <attvalue for="0" value="17.536985008672524" />
+          <attvalue for="1" value="-12.29231568060507" />
+        </attvalues>
+      </node>
+      <node id="Anguilla" label="Anguilla">
+        <attvalues>
+          <attvalue for="0" value="-63.05914841049337" />
+          <attvalue for="1" value="18.23014617133845" />
+        </attvalues>
+      </node>
+      <node id="Antarctica" label="Antarctica">
+        <attvalues>
+          <attvalue for="0" value="19.90839905931565" />
+          <attvalue for="1" value="-80.50821938056015" />
+        </attvalues>
+      </node>
+      <node id="Antigua and Barbuda" label="Antigua and Barbuda">
+        <attvalues>
+          <attvalue for="0" value="-61.792183812492596" />
+          <attvalue for="1" value="17.284096167903183" />
+        </attvalues>
+      </node>
+      <node id="Argentina" label="Argentina">
+        <attvalues>
+          <attvalue for="0" value="-65.17307736767675" />
+          <attvalue for="1" value="-35.37867939165118" />
+        </attvalues>
+      </node>
+      <node id="Armenia" label="Armenia">
+        <attvalues>
+          <attvalue for="0" value="44.93230117474739" />
+          <attvalue for="1" value="40.28813425144871" />
+        </attvalues>
+      </node>
+      <node id="Aruba" label="Aruba">
+        <attvalues>
+          <attvalue for="0" value="-69.97420088761085" />
+          <attvalue for="1" value="12.516935254396325" />
+        </attvalues>
+      </node>
+      <node id="Ashmore and Cartier Islands" label="Ashmore and Cartier Islands">
+        <attvalues>
+          <attvalue for="0" value="123.58636771289328" />
+          <attvalue for="1" value="-12.432577311268105" />
+        </attvalues>
+      </node>
+      <node id="Australia" label="Australia">
+        <attvalues>
+          <attvalue for="0" value="134.4911188131766" />
+          <attvalue for="1" value="-25.732310548850307" />
+        </attvalues>
+      </node>
+      <node id="Austria" label="Austria">
+        <attvalues>
+          <attvalue for="0" value="14.130672976239197" />
+          <attvalue for="1" value="47.58565692753397" />
+        </attvalues>
+      </node>
+      <node id="Azerbaijan" label="Azerbaijan">
+        <attvalues>
+          <attvalue for="0" value="47.54211129080389" />
+          <attvalue for="1" value="40.28911894632887" />
+        </attvalues>
+      </node>
+      <node id="Bahrain" label="Bahrain">
+        <attvalues>
+          <attvalue for="0" value="50.563495633210906" />
+          <attvalue for="1" value="26.03551940840617" />
+        </attvalues>
+      </node>
+      <node id="Bajo Nuevo Bank (Petrel Is.)" label="Bajo Nuevo Bank (Petrel Is.)">
+        <attvalues>
+          <attvalue for="0" value="-79.98786596215572" />
+          <attvalue for="1" value="15.7950102177156" />
+        </attvalues>
+      </node>
+      <node id="Bangladesh" label="Bangladesh">
+        <attvalues>
+          <attvalue for="0" value="90.24199984454083" />
+          <attvalue for="1" value="23.845677733978423" />
+        </attvalues>
+      </node>
+      <node id="Barbados" label="Barbados">
+        <attvalues>
+          <attvalue for="0" value="-59.56121783703493" />
+          <attvalue for="1" value="13.181053845994025" />
+        </attvalues>
+      </node>
+      <node id="Baykonur Cosmodrome" label="Baykonur Cosmodrome">
+        <attvalues>
+          <attvalue for="0" value="63.38389704184427" />
+          <attvalue for="1" value="45.978330069561494" />
+        </attvalues>
+      </node>
+      <node id="Belarus" label="Belarus">
+        <attvalues>
+          <attvalue for="0" value="28.033566655607395" />
+          <attvalue for="1" value="53.53188044413329" />
+        </attvalues>
+      </node>
+      <node id="Belgium" label="Belgium">
+        <attvalues>
+          <attvalue for="0" value="4.6399605431060245" />
+          <attvalue for="1" value="50.637461611660044" />
+        </attvalues>
+      </node>
+      <node id="Belize" label="Belize">
+        <attvalues>
+          <attvalue for="0" value="-88.69388852477526" />
+          <attvalue for="1" value="17.208318651792947" />
+        </attvalues>
+      </node>
+      <node id="Benin" label="Benin">
+        <attvalues>
+          <attvalue for="0" value="2.328740682876135" />
+          <attvalue for="1" value="9.641216602468445" />
+        </attvalues>
+      </node>
+      <node id="Bermuda" label="Bermuda">
+        <attvalues>
+          <attvalue for="0" value="-64.76349140852251" />
+          <attvalue for="1" value="32.310136672214696" />
+        </attvalues>
+      </node>
+      <node id="Bhutan" label="Bhutan">
+        <attvalues>
+          <attvalue for="0" value="90.40668784260687" />
+          <attvalue for="1" value="27.42150852788881" />
+        </attvalues>
+      </node>
+      <node id="Bir Tawil" label="Bir Tawil">
+        <attvalues>
+          <attvalue for="0" value="33.68202802415133" />
+          <attvalue for="1" value="21.879868849890578" />
+        </attvalues>
+      </node>
+      <node id="Bolivia" label="Bolivia">
+        <attvalues>
+          <attvalue for="0" value="-64.68475368279178" />
+          <attvalue for="1" value="-16.70687679599914" />
+        </attvalues>
+      </node>
+      <node id="Bosnia and Herzegovina" label="Bosnia and Herzegovina">
+        <attvalues>
+          <attvalue for="0" value="17.773407982879895" />
+          <attvalue for="1" value="44.17173403636953" />
+        </attvalues>
+      </node>
+      <node id="Botswana" label="Botswana">
+        <attvalues>
+          <attvalue for="0" value="23.798986700580777" />
+          <attvalue for="1" value="-22.185772285612767" />
+        </attvalues>
+      </node>
+      <node id="Brazil" label="Brazil">
+        <attvalues>
+          <attvalue for="0" value="-53.09248234950133" />
+          <attvalue for="1" value="-10.780858817556469" />
+        </attvalues>
+      </node>
+      <node id="Brazilian Island" label="Brazilian Island">
+        <attvalues>
+          <attvalue for="0" value="-57.62304194167083" />
+          <attvalue for="1" value="-30.18795521610712" />
+        </attvalues>
+      </node>
+      <node id="British Indian Ocean Territory" label="British Indian Ocean Territory">
+        <attvalues>
+          <attvalue for="0" value="72.2988152369614" />
+          <attvalue for="1" value="-7.144333413521099" />
+        </attvalues>
+      </node>
+      <node id="British Virgin Islands" label="British Virgin Islands">
+        <attvalues>
+          <attvalue for="0" value="-64.50286276409835" />
+          <attvalue for="1" value="18.50988435227312" />
+        </attvalues>
+      </node>
+      <node id="Brunei" label="Brunei">
+        <attvalues>
+          <attvalue for="0" value="114.72724567158767" />
+          <attvalue for="1" value="4.516500394579739" />
+        </attvalues>
+      </node>
+      <node id="Bulgaria" label="Bulgaria">
+        <attvalues>
+          <attvalue for="0" value="25.217512545616774" />
+          <attvalue for="1" value="42.76852262366868" />
+        </attvalues>
+      </node>
+      <node id="Burkina Faso" label="Burkina Faso">
+        <attvalues>
+          <attvalue for="0" value="-1.7555277328352306" />
+          <attvalue for="1" value="12.269553889839209" />
+        </attvalues>
+      </node>
+      <node id="Burundi" label="Burundi">
+        <attvalues>
+          <attvalue for="0" value="29.875082730106865" />
+          <attvalue for="1" value="-3.357425368272595" />
+        </attvalues>
+      </node>
+      <node id="Cabo Verde" label="Cabo Verde">
+        <attvalues>
+          <attvalue for="0" value="-23.975655433595097" />
+          <attvalue for="1" value="15.94515212677402" />
+        </attvalues>
+      </node>
+      <node id="Cambodia" label="Cambodia">
+        <attvalues>
+          <attvalue for="0" value="104.90280425184874" />
+          <attvalue for="1" value="12.715562493520897" />
+        </attvalues>
+      </node>
+      <node id="Cameroon" label="Cameroon">
+        <attvalues>
+          <attvalue for="0" value="12.73698415610122" />
+          <attvalue for="1" value="5.693058207676711" />
+        </attvalues>
+      </node>
+      <node id="Canada" label="Canada">
+        <attvalues>
+          <attvalue for="0" value="-98.2937133286777" />
+          <attvalue for="1" value="61.37635110106686" />
+        </attvalues>
+      </node>
+      <node id="Cayman Islands" label="Cayman Islands">
+        <attvalues>
+          <attvalue for="0" value="-80.8770259688876" />
+          <attvalue for="1" value="19.42633111590452" />
+        </attvalues>
+      </node>
+      <node id="Central African Republic" label="Central African Republic">
+        <attvalues>
+          <attvalue for="0" value="20.46480921377791" />
+          <attvalue for="1" value="6.566321890640105" />
+        </attvalues>
+      </node>
+      <node id="Chad" label="Chad">
+        <attvalues>
+          <attvalue for="0" value="18.6462511032848" />
+          <attvalue for="1" value="15.33307810950757" />
+        </attvalues>
+      </node>
+      <node id="Chile" label="Chile">
+        <attvalues>
+          <attvalue for="0" value="-71.36437471409526" />
+          <attvalue for="1" value="-37.74360669201153" />
+        </attvalues>
+      </node>
+      <node id="China" label="China">
+        <attvalues>
+          <attvalue for="0" value="103.83259244500324" />
+          <attvalue for="1" value="36.55927331817776" />
+        </attvalues>
+      </node>
+      <node id="Clipperton Island" label="Clipperton Island">
+        <attvalues>
+          <attvalue for="0" value="-109.22126428343252" />
+          <attvalue for="1" value="10.297389268315541" />
+        </attvalues>
+      </node>
+      <node id="Colombia" label="Colombia">
+        <attvalues>
+          <attvalue for="0" value="-73.08384211224954" />
+          <attvalue for="1" value="3.9094130146250707" />
+        </attvalues>
+      </node>
+      <node id="Comoros" label="Comoros">
+        <attvalues>
+          <attvalue for="0" value="43.68016364362815" />
+          <attvalue for="1" value="-11.884216696116708" />
+        </attvalues>
+      </node>
+      <node id="Cook Islands" label="Cook Islands">
+        <attvalues>
+          <attvalue for="0" value="-158.7912077685366" />
+          <attvalue for="1" value="-19.814517220903475" />
+        </attvalues>
+      </node>
+      <node id="Coral Sea Islands" label="Coral Sea Islands">
+        <attvalues>
+          <attvalue for="0" value="154.3903646666667" />
+          <attvalue for="1" value="-21.029283666666668" />
+        </attvalues>
+      </node>
+      <node id="Costa Rica" label="Costa Rica">
+        <attvalues>
+          <attvalue for="0" value="-84.19352758663304" />
+          <attvalue for="1" value="9.973437000128257" />
+        </attvalues>
+      </node>
+      <node id="Croatia" label="Croatia">
+        <attvalues>
+          <attvalue for="0" value="16.39572483118879" />
+          <attvalue for="1" value="45.06750477792159" />
+        </attvalues>
+      </node>
+      <node id="Cuba" label="Cuba">
+        <attvalues>
+          <attvalue for="0" value="-79.0352116875338" />
+          <attvalue for="1" value="21.625298070377553" />
+        </attvalues>
+      </node>
+      <node id="Curaçao" label="Curaçao">
+        <attvalues>
+          <attvalue for="0" value="-68.97130566269834" />
+          <attvalue for="1" value="12.193821081104957" />
+        </attvalues>
+      </node>
+      <node id="Cyprus" label="Cyprus">
+        <attvalues>
+          <attvalue for="0" value="32.98999156177179" />
+          <attvalue for="1" value="34.91521705910412" />
+        </attvalues>
+      </node>
+      <node id="Cyprus No Mans Area" label="Cyprus No Mans Area">
+        <attvalues>
+          <attvalue for="0" value="33.257471193329636" />
+          <attvalue for="1" value="35.101996499826924" />
+        </attvalues>
+      </node>
+      <node id="Czechia" label="Czechia">
+        <attvalues>
+          <attvalue for="0" value="15.314102922471418" />
+          <attvalue for="1" value="49.73244814911318" />
+        </attvalues>
+      </node>
+      <node id="Democratic Republic of the Congo" label="Democratic Republic of the Congo">
+        <attvalues>
+          <attvalue for="0" value="23.64511363969649" />
+          <attvalue for="1" value="-2.8797998955264235" />
+        </attvalues>
+      </node>
+      <node id="Denmark" label="Denmark">
+        <attvalues>
+          <attvalue for="0" value="10.051389685043457" />
+          <attvalue for="1" value="55.965377457338896" />
+        </attvalues>
+      </node>
+      <node id="Dhekelia Sovereign Base Area" label="Dhekelia Sovereign Base Area">
+        <attvalues>
+          <attvalue for="0" value="33.79299641481012" />
+          <attvalue for="1" value="35.01779610907654" />
+        </attvalues>
+      </node>
+      <node id="Djibouti" label="Djibouti">
+        <attvalues>
+          <attvalue for="0" value="42.566453727853215" />
+          <attvalue for="1" value="11.750155890292163" />
+        </attvalues>
+      </node>
+      <node id="Dominica" label="Dominica">
+        <attvalues>
+          <attvalue for="0" value="-61.3569176778275" />
+          <attvalue for="1" value="15.436440522110125" />
+        </attvalues>
+      </node>
+      <node id="Dominican Republic" label="Dominican Republic">
+        <attvalues>
+          <attvalue for="0" value="-70.49658656414672" />
+          <attvalue for="1" value="18.896365860123467" />
+        </attvalues>
+      </node>
+      <node id="East Timor" label="East Timor">
+        <attvalues>
+          <attvalue for="0" value="125.85107564115543" />
+          <attvalue for="1" value="-8.82377875871968" />
+        </attvalues>
+      </node>
+      <node id="Ecuador" label="Ecuador">
+        <attvalues>
+          <attvalue for="0" value="-78.7722824044244" />
+          <attvalue for="1" value="-1.4262414732879691" />
+        </attvalues>
+      </node>
+      <node id="Egypt" label="Egypt">
+        <attvalues>
+          <attvalue for="0" value="29.86111091808683" />
+          <attvalue for="1" value="26.49299310920676" />
+        </attvalues>
+      </node>
+      <node id="El Salvador" label="El Salvador">
+        <attvalues>
+          <attvalue for="0" value="-88.8710325925209" />
+          <attvalue for="1" value="13.73584957589758" />
+        </attvalues>
+      </node>
+      <node id="Equatorial Guinea" label="Equatorial Guinea">
+        <attvalues>
+          <attvalue for="0" value="10.332885577931204" />
+          <attvalue for="1" value="1.70696097050046" />
+        </attvalues>
+      </node>
+      <node id="Eritrea" label="Eritrea">
+        <attvalues>
+          <attvalue for="0" value="38.85294445425116" />
+          <attvalue for="1" value="15.357513702257203" />
+        </attvalues>
+      </node>
+      <node id="Estonia" label="Estonia">
+        <attvalues>
+          <attvalue for="0" value="25.535793290677105" />
+          <attvalue for="1" value="58.67101414158225" />
+        </attvalues>
+      </node>
+      <node id="Ethiopia" label="Ethiopia">
+        <attvalues>
+          <attvalue for="0" value="39.60055106466087" />
+          <attvalue for="1" value="8.62295173872924" />
+        </attvalues>
+      </node>
+      <node id="Falkland Islands" label="Falkland Islands">
+        <attvalues>
+          <attvalue for="0" value="-59.376103108897745" />
+          <attvalue for="1" value="-51.733307273774315" />
+        </attvalues>
+      </node>
+      <node id="Faroe Islands" label="Faroe Islands">
+        <attvalues>
+          <attvalue for="0" value="-6.8705545698546535" />
+          <attvalue for="1" value="62.07402744828384" />
+        </attvalues>
+      </node>
+      <node id="Federated States of Micronesia" label="Federated States of Micronesia">
+        <attvalues>
+          <attvalue for="0" value="155.2606528482043" />
+          <attvalue for="1" value="6.9672771096659885" />
+        </attvalues>
+      </node>
+      <node id="Fiji" label="Fiji">
+        <attvalues>
+          <attvalue for="0" value="163.40788205747583" />
+          <attvalue for="1" value="-17.447561999908437" />
+        </attvalues>
+      </node>
+      <node id="Finland" label="Finland">
+        <attvalues>
+          <attvalue for="0" value="26.27079502442742" />
+          <attvalue for="1" value="64.49535902061734" />
+        </attvalues>
+      </node>
+      <node id="France" label="France">
+        <attvalues>
+          <attvalue for="0" value="-2.755221135066515" />
+          <attvalue for="1" value="42.18010706187296" />
+        </attvalues>
+      </node>
+      <node id="French Polynesia" label="French Polynesia">
+        <attvalues>
+          <attvalue for="0" value="-145.05204341005344" />
+          <attvalue for="1" value="-15.188781078900076" />
+        </attvalues>
+      </node>
+      <node id="French Southern and Antarctic Lands" label="French Southern and Antarctic Lands">
+        <attvalues>
+          <attvalue for="0" value="68.9921352403587" />
+          <attvalue for="1" value="-49.0651508410664" />
+        </attvalues>
+      </node>
+      <node id="Gabon" label="Gabon">
+        <attvalues>
+          <attvalue for="0" value="11.789569267024909" />
+          <attvalue for="1" value="-0.5916559471447497" />
+        </attvalues>
+      </node>
+      <node id="Gambia" label="Gambia">
+        <attvalues>
+          <attvalue for="0" value="-15.397582022297485" />
+          <attvalue for="1" value="13.449729499705459" />
+        </attvalues>
+      </node>
+      <node id="Georgia" label="Georgia">
+        <attvalues>
+          <attvalue for="0" value="43.50752638038203" />
+          <attvalue for="1" value="42.1688007566316" />
+        </attvalues>
+      </node>
+      <node id="Germany" label="Germany">
+        <attvalues>
+          <attvalue for="0" value="10.381493799343389" />
+          <attvalue for="1" value="51.10636351530006" />
+        </attvalues>
+      </node>
+      <node id="Ghana" label="Ghana">
+        <attvalues>
+          <attvalue for="0" value="-1.2165238430488383" />
+          <attvalue for="1" value="7.9539547235318" />
+        </attvalues>
+      </node>
+      <node id="Gibraltar" label="Gibraltar">
+        <attvalues>
+          <attvalue for="0" value="-5.346700411151223" />
+          <attvalue for="1" value="36.129463472032356" />
+        </attvalues>
+      </node>
+      <node id="Greece" label="Greece">
+        <attvalues>
+          <attvalue for="0" value="22.97481899307603" />
+          <attvalue for="1" value="39.05118114041953" />
+        </attvalues>
+      </node>
+      <node id="Greenland" label="Greenland">
+        <attvalues>
+          <attvalue for="0" value="-41.34573945889172" />
+          <attvalue for="1" value="74.73599062153886" />
+        </attvalues>
+      </node>
+      <node id="Grenada" label="Grenada">
+        <attvalues>
+          <attvalue for="0" value="-61.65668209147947" />
+          <attvalue for="1" value="12.153372633266807" />
+        </attvalues>
+      </node>
+      <node id="Guam" label="Guam">
+        <attvalues>
+          <attvalue for="0" value="144.77193911773887" />
+          <attvalue for="1" value="13.443792985817382" />
+        </attvalues>
+      </node>
+      <node id="Guatemala" label="Guatemala">
+        <attvalues>
+          <attvalue for="0" value="-90.36015691056666" />
+          <attvalue for="1" value="15.696016455731815" />
+        </attvalues>
+      </node>
+      <node id="Guernsey" label="Guernsey">
+        <attvalues>
+          <attvalue for="0" value="-2.5304802909595123" />
+          <attvalue for="1" value="49.48437235353957" />
+        </attvalues>
+      </node>
+      <node id="Guinea" label="Guinea">
+        <attvalues>
+          <attvalue for="0" value="-10.94306130947578" />
+          <attvalue for="1" value="10.434649032607828" />
+        </attvalues>
+      </node>
+      <node id="Guinea-Bissau" label="Guinea-Bissau">
+        <attvalues>
+          <attvalue for="0" value="-14.977513727249164" />
+          <attvalue for="1" value="12.026921922773935" />
+        </attvalues>
+      </node>
+      <node id="Guyana" label="Guyana">
+        <attvalues>
+          <attvalue for="0" value="-58.98011465209003" />
+          <attvalue for="1" value="4.793461821151295" />
+        </attvalues>
+      </node>
+      <node id="Haiti" label="Haiti">
+        <attvalues>
+          <attvalue for="0" value="-72.69087413223197" />
+          <attvalue for="1" value="18.93837136136754" />
+        </attvalues>
+      </node>
+      <node id="Heard Island and McDonald Islands" label="Heard Island and McDonald Islands">
+        <attvalues>
+          <attvalue for="0" value="73.50521040756003" />
+          <attvalue for="1" value="-53.08881697236106" />
+        </attvalues>
+      </node>
+      <node id="Honduras" label="Honduras">
+        <attvalues>
+          <attvalue for="0" value="-86.62522681164258" />
+          <attvalue for="1" value="14.821009199688481" />
+        </attvalues>
+      </node>
+      <node id="Hong Kong S.A.R." label="Hong Kong S.A.R.">
+        <attvalues>
+          <attvalue for="0" value="114.13144675699695" />
+          <attvalue for="1" value="22.384636949769103" />
+        </attvalues>
+      </node>
+      <node id="Hungary" label="Hungary">
+        <attvalues>
+          <attvalue for="0" value="19.396759329969008" />
+          <attvalue for="1" value="47.163243698419926" />
+        </attvalues>
+      </node>
+      <node id="Iceland" label="Iceland">
+        <attvalues>
+          <attvalue for="0" value="-18.5964459398431" />
+          <attvalue for="1" value="64.99831584601681" />
+        </attvalues>
+      </node>
+      <node id="India" label="India">
+        <attvalues>
+          <attvalue for="0" value="79.60712163762587" />
+          <attvalue for="1" value="22.887985835709955" />
+        </attvalues>
+      </node>
+      <node id="Indian Ocean Territories" label="Indian Ocean Territories">
+        <attvalues>
+          <attvalue for="0" value="104.6193981004054" />
+          <attvalue for="1" value="-10.692173818862457" />
+        </attvalues>
+      </node>
+      <node id="Indonesia" label="Indonesia">
+        <attvalues>
+          <attvalue for="0" value="117.27043361542269" />
+          <attvalue for="1" value="-2.2229610227625294" />
+        </attvalues>
+      </node>
+      <node id="Iran" label="Iran">
+        <attvalues>
+          <attvalue for="0" value="54.27694674057742" />
+          <attvalue for="1" value="32.5706782003788" />
+        </attvalues>
+      </node>
+      <node id="Iraq" label="Iraq">
+        <attvalues>
+          <attvalue for="0" value="43.74497701608478" />
+          <attvalue for="1" value="33.039803790399844" />
+        </attvalues>
+      </node>
+      <node id="Ireland" label="Ireland">
+        <attvalues>
+          <attvalue for="0" value="-8.145044313398992" />
+          <attvalue for="1" value="53.17822148174616" />
+        </attvalues>
+      </node>
+      <node id="Isle of Man" label="Isle of Man">
+        <attvalues>
+          <attvalue for="0" value="-4.533695232958602" />
+          <attvalue for="1" value="54.22910190112926" />
+        </attvalues>
+      </node>
+      <node id="Israel" label="Israel">
+        <attvalues>
+          <attvalue for="0" value="34.99700921700885" />
+          <attvalue for="1" value="31.447612153578227" />
+        </attvalues>
+      </node>
+      <node id="Italy" label="Italy">
+        <attvalues>
+          <attvalue for="0" value="12.071907122229174" />
+          <attvalue for="1" value="42.786433935770205" />
+        </attvalues>
+      </node>
+      <node id="Ivory Coast" label="Ivory Coast">
+        <attvalues>
+          <attvalue for="0" value="-5.5690002478115455" />
+          <attvalue for="1" value="7.627966543256308" />
+        </attvalues>
+      </node>
+      <node id="Jamaica" label="Jamaica">
+        <attvalues>
+          <attvalue for="0" value="-77.31881037052179" />
+          <attvalue for="1" value="18.155226401739878" />
+        </attvalues>
+      </node>
+      <node id="Japan" label="Japan">
+        <attvalues>
+          <attvalue for="0" value="137.97834750909797" />
+          <attvalue for="1" value="37.551177265115655" />
+        </attvalues>
+      </node>
+      <node id="Jersey" label="Jersey">
+        <attvalues>
+          <attvalue for="0" value="-2.1274308068739933" />
+          <attvalue for="1" value="49.22106419607293" />
+        </attvalues>
+      </node>
+      <node id="Jordan" label="Jordan">
+        <attvalues>
+          <attvalue for="0" value="36.7709231799615" />
+          <attvalue for="1" value="31.24557614134442" />
+        </attvalues>
+      </node>
+      <node id="Kazakhstan" label="Kazakhstan">
+        <attvalues>
+          <attvalue for="0" value="67.2959643973026" />
+          <attvalue for="1" value="48.16065177575152" />
+        </attvalues>
+      </node>
+      <node id="Kenya" label="Kenya">
+        <attvalues>
+          <attvalue for="0" value="37.822439910605276" />
+          <attvalue for="1" value="0.5507660550106541" />
+        </attvalues>
+      </node>
+      <node id="Kiribati" label="Kiribati">
+        <attvalues>
+          <attvalue for="0" value="-51.52543649127696" />
+          <attvalue for="1" value="0.6151873468127249" />
+        </attvalues>
+      </node>
+      <node id="Kosovo" label="Kosovo">
+        <attvalues>
+          <attvalue for="0" value="20.873742919669333" />
+          <attvalue for="1" value="42.57288337420534" />
+        </attvalues>
+      </node>
+      <node id="Kuwait" label="Kuwait">
+        <attvalues>
+          <attvalue for="0" value="47.594623387772884" />
+          <attvalue for="1" value="29.3400421539026" />
+        </attvalues>
+      </node>
+      <node id="Kyrgyzstan" label="Kyrgyzstan">
+        <attvalues>
+          <attvalue for="0" value="74.54166942762035" />
+          <attvalue for="1" value="41.46191871552191" />
+        </attvalues>
+      </node>
+      <node id="Laos" label="Laos">
+        <attvalues>
+          <attvalue for="0" value="103.73787189457269" />
+          <attvalue for="1" value="18.502301645904584" />
+        </attvalues>
+      </node>
+      <node id="Latvia" label="Latvia">
+        <attvalues>
+          <attvalue for="0" value="24.908622245775963" />
+          <attvalue for="1" value="56.851819504647096" />
+        </attvalues>
+      </node>
+      <node id="Lebanon" label="Lebanon">
+        <attvalues>
+          <attvalue for="0" value="35.87983049751742" />
+          <attvalue for="1" value="33.92009323529405" />
+        </attvalues>
+      </node>
+      <node id="Lesotho" label="Lesotho">
+        <attvalues>
+          <attvalue for="0" value="28.228622937487867" />
+          <attvalue for="1" value="-29.579730383989276" />
+        </attvalues>
+      </node>
+      <node id="Liberia" label="Liberia">
+        <attvalues>
+          <attvalue for="0" value="-9.319863984315953" />
+          <attvalue for="1" value="6.452232581602914" />
+        </attvalues>
+      </node>
+      <node id="Libya" label="Libya">
+        <attvalues>
+          <attvalue for="0" value="18.00960524581526" />
+          <attvalue for="1" value="27.030277932087323" />
+        </attvalues>
+      </node>
+      <node id="Liechtenstein" label="Liechtenstein">
+        <attvalues>
+          <attvalue for="0" value="9.540900145282913" />
+          <attvalue for="1" value="47.138206301570584" />
+        </attvalues>
+      </node>
+      <node id="Lithuania" label="Lithuania">
+        <attvalues>
+          <attvalue for="0" value="23.88824903802264" />
+          <attvalue for="1" value="55.32702358343553" />
+        </attvalues>
+      </node>
+      <node id="Luxembourg" label="Luxembourg">
+        <attvalues>
+          <attvalue for="0" value="6.071763925517945" />
+          <attvalue for="1" value="49.76682434262135" />
+        </attvalues>
+      </node>
+      <node id="Macao S.A.R" label="Macao S.A.R">
+        <attvalues>
+          <attvalue for="0" value="113.55019782961578" />
+          <attvalue for="1" value="22.15778448433761" />
+        </attvalues>
+      </node>
+      <node id="Madagascar" label="Madagascar">
+        <attvalues>
+          <attvalue for="0" value="46.70599834126964" />
+          <attvalue for="1" value="-19.373167510101393" />
+        </attvalues>
+      </node>
+      <node id="Malawi" label="Malawi">
+        <attvalues>
+          <attvalue for="0" value="34.2899078375291" />
+          <attvalue for="1" value="-13.217225871194524" />
+        </attvalues>
+      </node>
+      <node id="Malaysia" label="Malaysia">
+        <attvalues>
+          <attvalue for="0" value="109.69886848960256" />
+          <attvalue for="1" value="3.7923928572213974" />
+        </attvalues>
+      </node>
+      <node id="Maldives" label="Maldives">
+        <attvalues>
+          <attvalue for="0" value="73.30227098074437" />
+          <attvalue for="1" value="3.8278161688504957" />
+        </attvalues>
+      </node>
+      <node id="Mali" label="Mali">
+        <attvalues>
+          <attvalue for="0" value="-3.5390793977250303" />
+          <attvalue for="1" value="17.344162746241345" />
+        </attvalues>
+      </node>
+      <node id="Malta" label="Malta">
+        <attvalues>
+          <attvalue for="0" value="14.4037539867505" />
+          <attvalue for="1" value="35.92102699246764" />
+        </attvalues>
+      </node>
+      <node id="Marshall Islands" label="Marshall Islands">
+        <attvalues>
+          <attvalue for="0" value="170.09953073417864" />
+          <attvalue for="1" value="7.114469365299392" />
+        </attvalues>
+      </node>
+      <node id="Mauritania" label="Mauritania">
+        <attvalues>
+          <attvalue for="0" value="-10.34339791280884" />
+          <attvalue for="1" value="20.256218206743835" />
+        </attvalues>
+      </node>
+      <node id="Mauritius" label="Mauritius">
+        <attvalues>
+          <attvalue for="0" value="57.84969904236794" />
+          <attvalue for="1" value="-20.185542365275563" />
+        </attvalues>
+      </node>
+      <node id="Mexico" label="Mexico">
+        <attvalues>
+          <attvalue for="0" value="-102.53030785134246" />
+          <attvalue for="1" value="23.949171187479706" />
+        </attvalues>
+      </node>
+      <node id="Moldova" label="Moldova">
+        <attvalues>
+          <attvalue for="0" value="28.461397099133467" />
+          <attvalue for="1" value="47.195101515318015" />
+        </attvalues>
+      </node>
+      <node id="Monaco" label="Monaco">
+        <attvalues>
+          <attvalue for="0" value="7.3989741501966995" />
+          <attvalue for="1" value="43.73984629340104" />
+        </attvalues>
+      </node>
+      <node id="Mongolia" label="Mongolia">
+        <attvalues>
+          <attvalue for="0" value="103.05628656671418" />
+          <attvalue for="1" value="46.825806071450636" />
+        </attvalues>
+      </node>
+      <node id="Montenegro" label="Montenegro">
+        <attvalues>
+          <attvalue for="0" value="19.23849998612216" />
+          <attvalue for="1" value="42.78581815406624" />
+        </attvalues>
+      </node>
+      <node id="Montserrat" label="Montserrat">
+        <attvalues>
+          <attvalue for="0" value="-62.18739871695461" />
+          <attvalue for="1" value="16.737523402688826" />
+        </attvalues>
+      </node>
+      <node id="Morocco" label="Morocco">
+        <attvalues>
+          <attvalue for="0" value="-8.396435017459739" />
+          <attvalue for="1" value="29.841692143581046" />
+        </attvalues>
+      </node>
+      <node id="Mozambique" label="Mozambique">
+        <attvalues>
+          <attvalue for="0" value="35.538105531919406" />
+          <attvalue for="1" value="-17.270010046793097" />
+        </attvalues>
+      </node>
+      <node id="Myanmar" label="Myanmar">
+        <attvalues>
+          <attvalue for="0" value="96.48928954374097" />
+          <attvalue for="1" value="21.16766993019289" />
+        </attvalues>
+      </node>
+      <node id="Namibia" label="Namibia">
+        <attvalues>
+          <attvalue for="0" value="17.211133154867635" />
+          <attvalue for="1" value="-22.129246657334843" />
+        </attvalues>
+      </node>
+      <node id="Nauru" label="Nauru">
+        <attvalues>
+          <attvalue for="0" value="166.9331320666274" />
+          <attvalue for="1" value="-0.5207828086013211" />
+        </attvalues>
+      </node>
+      <node id="Nepal" label="Nepal">
+        <attvalues>
+          <attvalue for="0" value="83.9162533811473" />
+          <attvalue for="1" value="28.247922231611295" />
+        </attvalues>
+      </node>
+      <node id="Netherlands" label="Netherlands">
+        <attvalues>
+          <attvalue for="0" value="5.2168138756205575" />
+          <attvalue for="1" value="52.06979148109087" />
+        </attvalues>
+      </node>
+      <node id="New Caledonia" label="New Caledonia">
+        <attvalues>
+          <attvalue for="0" value="165.70265482949247" />
+          <attvalue for="1" value="-21.304340125170437" />
+        </attvalues>
+      </node>
+      <node id="New Zealand" label="New Zealand">
+        <attvalues>
+          <attvalue for="0" value="171.47070477758007" />
+          <attvalue for="1" value="-41.82936351694512" />
+        </attvalues>
+      </node>
+      <node id="Nicaragua" label="Nicaragua">
+        <attvalues>
+          <attvalue for="0" value="-85.03341037433161" />
+          <attvalue for="1" value="12.845494610510979" />
+        </attvalues>
+      </node>
+      <node id="Niger" label="Niger">
+        <attvalues>
+          <attvalue for="0" value="9.386034031002227" />
+          <attvalue for="1" value="17.418463778904304" />
+        </attvalues>
+      </node>
+      <node id="Nigeria" label="Nigeria">
+        <attvalues>
+          <attvalue for="0" value="8.091239258465722" />
+          <attvalue for="1" value="9.595314862037977" />
+        </attvalues>
+      </node>
+      <node id="Niue" label="Niue">
+        <attvalues>
+          <attvalue for="0" value="-169.86934607376287" />
+          <attvalue for="1" value="-19.048919830035103" />
+        </attvalues>
+      </node>
+      <node id="Norfolk Island" label="Norfolk Island">
+        <attvalues>
+          <attvalue for="0" value="167.95516953046908" />
+          <attvalue for="1" value="-29.034975144426735" />
+        </attvalues>
+      </node>
+      <node id="North Korea" label="North Korea">
+        <attvalues>
+          <attvalue for="0" value="127.18377780193221" />
+          <attvalue for="1" value="40.1506427386302" />
+        </attvalues>
+      </node>
+      <node id="North Macedonia" label="North Macedonia">
+        <attvalues>
+          <attvalue for="0" value="21.683830378631463" />
+          <attvalue for="1" value="41.59500494915235" />
+        </attvalues>
+      </node>
+      <node id="Northern Cyprus" label="Northern Cyprus">
+        <attvalues>
+          <attvalue for="0" value="33.59779432808241" />
+          <attvalue for="1" value="35.2764210304458" />
+        </attvalues>
+      </node>
+      <node id="Northern Mariana Islands" label="Northern Mariana Islands">
+        <attvalues>
+          <attvalue for="0" value="145.5999545043407" />
+          <attvalue for="1" value="16.25085870451555" />
+        </attvalues>
+      </node>
+      <node id="Norway" label="Norway">
+        <attvalues>
+          <attvalue for="0" value="15.40959928822705" />
+          <attvalue for="1" value="68.79427291869433" />
+        </attvalues>
+      </node>
+      <node id="Oman" label="Oman">
+        <attvalues>
+          <attvalue for="0" value="56.09265651270713" />
+          <attvalue for="1" value="20.6018056224359" />
+        </attvalues>
+      </node>
+      <node id="Pakistan" label="Pakistan">
+        <attvalues>
+          <attvalue for="0" value="69.34134310551214" />
+          <attvalue for="1" value="29.94849682851448" />
+        </attvalues>
+      </node>
+      <node id="Palau" label="Palau">
+        <attvalues>
+          <attvalue for="0" value="134.3480333845419" />
+          <attvalue for="1" value="7.1976359717146" />
+        </attvalues>
+      </node>
+      <node id="Palestine" label="Palestine">
+        <attvalues>
+          <attvalue for="0" value="35.2006500973994" />
+          <attvalue for="1" value="31.917513084120383" />
+        </attvalues>
+      </node>
+      <node id="Panama" label="Panama">
+        <attvalues>
+          <attvalue for="0" value="-80.12129493940334" />
+          <attvalue for="1" value="8.514556931704421" />
+        </attvalues>
+      </node>
+      <node id="Papua New Guinea" label="Papua New Guinea">
+        <attvalues>
+          <attvalue for="0" value="145.23152393511" />
+          <attvalue for="1" value="-6.4701206458196685" />
+        </attvalues>
+      </node>
+      <node id="Paraguay" label="Paraguay">
+        <attvalues>
+          <attvalue for="0" value="-58.398422792503" />
+          <attvalue for="1" value="-23.227518817625498" />
+        </attvalues>
+      </node>
+      <node id="Peru" label="Peru">
+        <attvalues>
+          <attvalue for="0" value="-74.37806454631136" />
+          <attvalue for="1" value="-9.154388497778568" />
+        </attvalues>
+      </node>
+      <node id="Philippines" label="Philippines">
+        <attvalues>
+          <attvalue for="0" value="122.87468228522606" />
+          <attvalue for="1" value="11.762749942993823" />
+        </attvalues>
+      </node>
+      <node id="Pitcairn Islands" label="Pitcairn Islands">
+        <attvalues>
+          <attvalue for="0" value="-128.47926546350598" />
+          <attvalue for="1" value="-24.412769318983237" />
+        </attvalues>
+      </node>
+      <node id="Poland" label="Poland">
+        <attvalues>
+          <attvalue for="0" value="19.394322185332136" />
+          <attvalue for="1" value="52.12477181004819" />
+        </attvalues>
+      </node>
+      <node id="Portugal" label="Portugal">
+        <attvalues>
+          <attvalue for="0" value="-8.590837386940958" />
+          <attvalue for="1" value="39.58714692235924" />
+        </attvalues>
+      </node>
+      <node id="Puerto Rico" label="Puerto Rico">
+        <attvalues>
+          <attvalue for="0" value="-66.46760029771657" />
+          <attvalue for="1" value="18.223816478987505" />
+        </attvalues>
+      </node>
+      <node id="Qatar" label="Qatar">
+        <attvalues>
+          <attvalue for="0" value="51.186831349835565" />
+          <attvalue for="1" value="25.3130746645514" />
+        </attvalues>
+      </node>
+      <node id="Republic of Serbia" label="Republic of Serbia">
+        <attvalues>
+          <attvalue for="0" value="20.78925243513805" />
+          <attvalue for="1" value="44.22214764404905" />
+        </attvalues>
+      </node>
+      <node id="Republic of the Congo" label="Republic of the Congo">
+        <attvalues>
+          <attvalue for="0" value="15.218336122091753" />
+          <attvalue for="1" value="-0.8388799421107274" />
+        </attvalues>
+      </node>
+      <node id="Romania" label="Romania">
+        <attvalues>
+          <attvalue for="0" value="24.972941889159763" />
+          <attvalue for="1" value="45.853464124716936" />
+        </attvalues>
+      </node>
+      <node id="Russia" label="Russia">
+        <attvalues>
+          <attvalue for="0" value="96.62758838729299" />
+          <attvalue for="1" value="61.96685290954208" />
+        </attvalues>
+      </node>
+      <node id="Rwanda" label="Rwanda">
+        <attvalues>
+          <attvalue for="0" value="29.919060743838415" />
+          <attvalue for="1" value="-1.9927505324805435" />
+        </attvalues>
+      </node>
+      <node id="Saint Barthelemy" label="Saint Barthelemy">
+        <attvalues>
+          <attvalue for="0" value="-62.83261980995111" />
+          <attvalue for="1" value="17.905584561496" />
+        </attvalues>
+      </node>
+      <node id="Saint Helena" label="Saint Helena">
+        <attvalues>
+          <attvalue for="0" value="-10.138428434568914" />
+          <attvalue for="1" value="-24.911351069267578" />
+        </attvalues>
+      </node>
+      <node id="Saint Kitts and Nevis" label="Saint Kitts and Nevis">
+        <attvalues>
+          <attvalue for="0" value="-62.69854534423241" />
+          <attvalue for="1" value="17.2710421213416" />
+        </attvalues>
+      </node>
+      <node id="Saint Lucia" label="Saint Lucia">
+        <attvalues>
+          <attvalue for="0" value="-60.97031644420179" />
+          <attvalue for="1" value="13.902670590752312" />
+        </attvalues>
+      </node>
+      <node id="Saint Martin" label="Saint Martin">
+        <attvalues>
+          <attvalue for="0" value="-63.05507065954958" />
+          <attvalue for="1" value="18.07762049523388" />
+        </attvalues>
+      </node>
+      <node id="Saint Pierre and Miquelon" label="Saint Pierre and Miquelon">
+        <attvalues>
+          <attvalue for="0" value="-56.30781370696754" />
+          <attvalue for="1" value="46.93045809316951" />
+        </attvalues>
+      </node>
+      <node id="Saint Vincent and the Grenadines" label="Saint Vincent and the Grenadines">
+        <attvalues>
+          <attvalue for="0" value="-61.203353274065975" />
+          <attvalue for="1" value="13.21621647159908" />
+        </attvalues>
+      </node>
+      <node id="Samoa" label="Samoa">
+        <attvalues>
+          <attvalue for="0" value="-172.16124917515927" />
+          <attvalue for="1" value="-13.75459571494346" />
+        </attvalues>
+      </node>
+      <node id="San Marino" label="San Marino">
+        <attvalues>
+          <attvalue for="0" value="12.44222254538202" />
+          <attvalue for="1" value="43.93646626338044" />
+        </attvalues>
+      </node>
+      <node id="Saudi Arabia" label="Saudi Arabia">
+        <attvalues>
+          <attvalue for="0" value="44.53686367416837" />
+          <attvalue for="1" value="24.12232706859263" />
+        </attvalues>
+      </node>
+      <node id="Scarborough Reef" label="Scarborough Reef">
+        <attvalues>
+          <attvalue for="0" value="117.75381166666666" />
+          <attvalue for="1" value="15.152112666666667" />
+        </attvalues>
+      </node>
+      <node id="Senegal" label="Senegal">
+        <attvalues>
+          <attvalue for="0" value="-14.471305976705414" />
+          <attvalue for="1" value="14.367788645409162" />
+        </attvalues>
+      </node>
+      <node id="Serranilla Bank" label="Serranilla Bank">
+        <attvalues>
+          <attvalue for="0" value="-78.63811866666667" />
+          <attvalue for="1" value="15.864461000000002" />
+        </attvalues>
+      </node>
+      <node id="Seychelles" label="Seychelles">
+        <attvalues>
+          <attvalue for="0" value="52.06231607308584" />
+          <attvalue for="1" value="-6.489978181316954" />
+        </attvalues>
+      </node>
+      <node id="Siachen Glacier" label="Siachen Glacier">
+        <attvalues>
+          <attvalue for="0" value="77.1799526431226" />
+          <attvalue for="1" value="35.39108187217295" />
+        </attvalues>
+      </node>
+      <node id="Sierra Leone" label="Sierra Leone">
+        <attvalues>
+          <attvalue for="0" value="-11.79501564019974" />
+          <attvalue for="1" value="8.563085846262345" />
+        </attvalues>
+      </node>
+      <node id="Singapore" label="Singapore">
+        <attvalues>
+          <attvalue for="0" value="103.81346757524045" />
+          <attvalue for="1" value="1.3589210191326393" />
+        </attvalues>
+      </node>
+      <node id="Sint Maarten" label="Sint Maarten">
+        <attvalues>
+          <attvalue for="0" value="-63.07013294590069" />
+          <attvalue for="1" value="18.040630259535366" />
+        </attvalues>
+      </node>
+      <node id="Slovakia" label="Slovakia">
+        <attvalues>
+          <attvalue for="0" value="19.480382917716636" />
+          <attvalue for="1" value="48.70493530010151" />
+        </attvalues>
+      </node>
+      <node id="Slovenia" label="Slovenia">
+        <attvalues>
+          <attvalue for="0" value="14.808103984457686" />
+          <attvalue for="1" value="46.11611905275711" />
+        </attvalues>
+      </node>
+      <node id="Solomon Islands" label="Solomon Islands">
+        <attvalues>
+          <attvalue for="0" value="159.63809458210557" />
+          <attvalue for="1" value="-8.909583306398492" />
+        </attvalues>
+      </node>
+      <node id="Somalia" label="Somalia">
+        <attvalues>
+          <attvalue for="0" value="45.7061443405072" />
+          <attvalue for="1" value="4.748836737446842" />
+        </attvalues>
+      </node>
+      <node id="Somaliland" label="Somaliland">
+        <attvalues>
+          <attvalue for="0" value="46.254819242179124" />
+          <attvalue for="1" value="9.731015902508382" />
+        </attvalues>
+      </node>
+      <node id="South Africa" label="South Africa">
+        <attvalues>
+          <attvalue for="0" value="25.087364434637152" />
+          <attvalue for="1" value="-29.00103218124528" />
+        </attvalues>
+      </node>
+      <node id="South Georgia and the Islands" label="South Georgia and the Islands">
+        <attvalues>
+          <attvalue for="0" value="-35.88231643617259" />
+          <attvalue for="1" value="-54.67921918897778" />
+        </attvalues>
+      </node>
+      <node id="South Korea" label="South Korea">
+        <attvalues>
+          <attvalue for="0" value="127.81909396778278" />
+          <attvalue for="1" value="36.37335348788272" />
+        </attvalues>
+      </node>
+      <node id="South Sudan" label="South Sudan">
+        <attvalues>
+          <attvalue for="0" value="30.301119588363765" />
+          <attvalue for="1" value="7.283530661902219" />
+        </attvalues>
+      </node>
+      <node id="Southern Patagonian Ice Field" label="Southern Patagonian Ice Field">
+        <attvalues>
+          <attvalue for="0" value="-73.31883367131411" />
+          <attvalue for="1" value="-49.51234275311339" />
+        </attvalues>
+      </node>
+      <node id="Spain" label="Spain">
+        <attvalues>
+          <attvalue for="0" value="-3.6526369605257316" />
+          <attvalue for="1" value="40.2272336868585" />
+        </attvalues>
+      </node>
+      <node id="Spratly Islands" label="Spratly Islands">
+        <attvalues>
+          <attvalue for="0" value="114.9270389872097" />
+          <attvalue for="1" value="10.545024254679227" />
+        </attvalues>
+      </node>
+      <node id="Sri Lanka" label="Sri Lanka">
+        <attvalues>
+          <attvalue for="0" value="80.70316267733536" />
+          <attvalue for="1" value="7.6159146427644995" />
+        </attvalues>
+      </node>
+      <node id="Sudan" label="Sudan">
+        <attvalues>
+          <attvalue for="0" value="29.935401586420475" />
+          <attvalue for="1" value="15.980242324937755" />
+        </attvalues>
+      </node>
+      <node id="Suriname" label="Suriname">
+        <attvalues>
+          <attvalue for="0" value="-55.91107135496456" />
+          <attvalue for="1" value="4.131244948279492" />
+        </attvalues>
+      </node>
+      <node id="Sweden" label="Sweden">
+        <attvalues>
+          <attvalue for="0" value="16.754466424731195" />
+          <attvalue for="1" value="62.77709982191891" />
+        </attvalues>
+      </node>
+      <node id="Switzerland" label="Switzerland">
+        <attvalues>
+          <attvalue for="0" value="8.215353711582264" />
+          <attvalue for="1" value="46.79895688357992" />
+        </attvalues>
+      </node>
+      <node id="Syria" label="Syria">
+        <attvalues>
+          <attvalue for="0" value="38.5045647876633" />
+          <attvalue for="1" value="35.0230034392104" />
+        </attvalues>
+      </node>
+      <node id="São Tomé and Principe" label="São Tomé and Principe">
+        <attvalues>
+          <attvalue for="0" value="6.726442423228951" />
+          <attvalue for="1" value="0.4442592566612634" />
+        </attvalues>
+      </node>
+      <node id="Taiwan" label="Taiwan">
+        <attvalues>
+          <attvalue for="0" value="120.94987529927816" />
+          <attvalue for="1" value="23.75298513953673" />
+        </attvalues>
+      </node>
+      <node id="Tajikistan" label="Tajikistan">
+        <attvalues>
+          <attvalue for="0" value="71.01583438480748" />
+          <attvalue for="1" value="38.5298856965165" />
+        </attvalues>
+      </node>
+      <node id="Thailand" label="Thailand">
+        <attvalues>
+          <attvalue for="0" value="101.00333337375021" />
+          <attvalue for="1" value="15.11439975028217" />
+        </attvalues>
+      </node>
+      <node id="The Bahamas" label="The Bahamas">
+        <attvalues>
+          <attvalue for="0" value="-76.5514935641296" />
+          <attvalue for="1" value="24.22398567432857" />
+        </attvalues>
+      </node>
+      <node id="Togo" label="Togo">
+        <attvalues>
+          <attvalue for="0" value="0.9622715789802447" />
+          <attvalue for="1" value="8.526788150903716" />
+        </attvalues>
+      </node>
+      <node id="Tonga" label="Tonga">
+        <attvalues>
+          <attvalue for="0" value="-174.86851238701462" />
+          <attvalue for="1" value="-20.06655628192573" />
+        </attvalues>
+      </node>
+      <node id="Trinidad and Tobago" label="Trinidad and Tobago">
+        <attvalues>
+          <attvalue for="0" value="-61.25844990145354" />
+          <attvalue for="1" value="10.468829853574045" />
+        </attvalues>
+      </node>
+      <node id="Tunisia" label="Tunisia">
+        <attvalues>
+          <attvalue for="0" value="9.554626259842385" />
+          <attvalue for="1" value="34.1194052373121" />
+        </attvalues>
+      </node>
+      <node id="Turkey" label="Turkey">
+        <attvalues>
+          <attvalue for="0" value="35.16723942714915" />
+          <attvalue for="1" value="39.06108058041754" />
+        </attvalues>
+      </node>
+      <node id="Turkmenistan" label="Turkmenistan">
+        <attvalues>
+          <attvalue for="0" value="59.375960834398114" />
+          <attvalue for="1" value="39.11593391571902" />
+        </attvalues>
+      </node>
+      <node id="Turks and Caicos Islands" label="Turks and Caicos Islands">
+        <attvalues>
+          <attvalue for="0" value="-71.87330710820085" />
+          <attvalue for="1" value="21.78004580782983" />
+        </attvalues>
+      </node>
+      <node id="Tuvalu" label="Tuvalu">
+        <attvalues>
+          <attvalue for="0" value="178.52037788365755" />
+          <attvalue for="1" value="-7.759093405974492" />
+        </attvalues>
+      </node>
+      <node id="US Naval Base Guantanamo Bay" label="US Naval Base Guantanamo Bay">
+        <attvalues>
+          <attvalue for="0" value="-75.15467294809662" />
+          <attvalue for="1" value="19.9292537720865" />
+        </attvalues>
+      </node>
+      <node id="Uganda" label="Uganda">
+        <attvalues>
+          <attvalue for="0" value="32.367039869294395" />
+          <attvalue for="1" value="1.2756913016376465" />
+        </attvalues>
+      </node>
+      <node id="Ukraine" label="Ukraine">
+        <attvalues>
+          <attvalue for="0" value="31.255306179386437" />
+          <attvalue for="1" value="49.160078278191335" />
+        </attvalues>
+      </node>
+      <node id="United Arab Emirates" label="United Arab Emirates">
+        <attvalues>
+          <attvalue for="0" value="54.300795629649166" />
+          <attvalue for="1" value="23.905783081145138" />
+        </attvalues>
+      </node>
+      <node id="United Kingdom" label="United Kingdom">
+        <attvalues>
+          <attvalue for="0" value="-2.8869515032075705" />
+          <attvalue for="1" value="54.14704815782686" />
+        </attvalues>
+      </node>
+      <node id="United Republic of Tanzania" label="United Republic of Tanzania">
+        <attvalues>
+          <attvalue for="0" value="34.81358640392209" />
+          <attvalue for="1" value="-6.275097400417002" />
+        </attvalues>
+      </node>
+      <node id="United States Minor Outlying Islands" label="United States Minor Outlying Islands">
+        <attvalues>
+          <attvalue for="0" value="-103.27829217128918" />
+          <attvalue for="1" value="13.302890936569145" />
+        </attvalues>
+      </node>
+      <node id="United States Virgin Islands" label="United States Virgin Islands">
+        <attvalues>
+          <attvalue for="0" value="-64.79765449807063" />
+          <attvalue for="1" value="17.980545922831183" />
+        </attvalues>
+      </node>
+      <node id="United States of America" label="United States of America">
+        <attvalues>
+          <attvalue for="0" value="-112.49616352991607" />
+          <attvalue for="1" value="45.68811939639808" />
+        </attvalues>
+      </node>
+      <node id="Uruguay" label="Uruguay">
+        <attvalues>
+          <attvalue for="0" value="-56.01713024804987" />
+          <attvalue for="1" value="-32.798251179880936" />
+        </attvalues>
+      </node>
+      <node id="Uzbekistan" label="Uzbekistan">
+        <attvalues>
+          <attvalue for="0" value="63.13990894881441" />
+          <attvalue for="1" value="41.75603590837368" />
+        </attvalues>
+      </node>
+      <node id="Vanuatu" label="Vanuatu">
+        <attvalues>
+          <attvalue for="0" value="167.70084392908544" />
+          <attvalue for="1" value="-16.201267622406093" />
+        </attvalues>
+      </node>
+      <node id="Vatican" label="Vatican">
+        <attvalues>
+          <attvalue for="0" value="12.453417684489558" />
+          <attvalue for="1" value="41.903312653497046" />
+        </attvalues>
+      </node>
+      <node id="Venezuela" label="Venezuela">
+        <attvalues>
+          <attvalue for="0" value="-66.16884033389577" />
+          <attvalue for="1" value="7.127731548690621" />
+        </attvalues>
+      </node>
+      <node id="Vietnam" label="Vietnam">
+        <attvalues>
+          <attvalue for="0" value="106.30093527174795" />
+          <attvalue for="1" value="16.642182658897692" />
+        </attvalues>
+      </node>
+      <node id="Wallis and Futuna" label="Wallis and Futuna">
+        <attvalues>
+          <attvalue for="0" value="-177.05899474351136" />
+          <attvalue for="1" value="-13.738101144663164" />
+        </attvalues>
+      </node>
+      <node id="Western Sahara" label="Western Sahara">
+        <attvalues>
+          <attvalue for="0" value="-12.214961317048699" />
+          <attvalue for="1" value="24.232561147614994" />
+        </attvalues>
+      </node>
+      <node id="Yemen" label="Yemen">
+        <attvalues>
+          <attvalue for="0" value="47.59060205767451" />
+          <attvalue for="1" value="15.905421312041065" />
+        </attvalues>
+      </node>
+      <node id="Zambia" label="Zambia">
+        <attvalues>
+          <attvalue for="0" value="27.7742123284096" />
+          <attvalue for="1" value="-13.460109996513628" />
+        </attvalues>
+      </node>
+      <node id="Zimbabwe" label="Zimbabwe">
+        <attvalues>
+          <attvalue for="0" value="29.851884627150046" />
+          <attvalue for="1" value="-19.00253668460274" />
+        </attvalues>
+      </node>
+      <node id="eSwatini" label="eSwatini">
+        <attvalues>
+          <attvalue for="0" value="31.480024099453484" />
+          <attvalue for="1" value="-26.561914238892175" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Afghanistan" target="China" id="0" weight="1.0" />
+      <edge source="Afghanistan" target="Iran" id="1" weight="1.0" />
+      <edge source="Afghanistan" target="Pakistan" id="2" weight="1.0" />
+      <edge source="Afghanistan" target="Tajikistan" id="3" weight="1.0" />
+      <edge source="Afghanistan" target="Turkmenistan" id="4" weight="1.0" />
+      <edge source="Afghanistan" target="Uzbekistan" id="5" weight="1.0" />
+      <edge source="Akrotiri Sovereign Base Area" target="Cyprus" id="6" weight="1.0" />
+      <edge source="Albania" target="Greece" id="7" weight="1.0" />
+      <edge source="Albania" target="Kosovo" id="8" weight="1.0" />
+      <edge source="Albania" target="Montenegro" id="9" weight="1.0" />
+      <edge source="Albania" target="North Macedonia" id="10" weight="1.0" />
+      <edge source="Algeria" target="Libya" id="11" weight="1.0" />
+      <edge source="Algeria" target="Mali" id="12" weight="1.0" />
+      <edge source="Algeria" target="Mauritania" id="13" weight="1.0" />
+      <edge source="Algeria" target="Morocco" id="14" weight="1.0" />
+      <edge source="Algeria" target="Niger" id="15" weight="1.0" />
+      <edge source="Algeria" target="Tunisia" id="16" weight="1.0" />
+      <edge source="Algeria" target="Western Sahara" id="17" weight="1.0" />
+      <edge source="Andorra" target="France" id="18" weight="1.0" />
+      <edge source="Andorra" target="Spain" id="19" weight="1.0" />
+      <edge source="Angola" target="Democratic Republic of the Congo" id="20" weight="1.0" />
+      <edge source="Angola" target="Namibia" id="21" weight="1.0" />
+      <edge source="Angola" target="Republic of the Congo" id="22" weight="1.0" />
+      <edge source="Angola" target="Zambia" id="23" weight="1.0" />
+      <edge source="Argentina" target="Bolivia" id="24" weight="1.0" />
+      <edge source="Argentina" target="Brazil" id="25" weight="1.0" />
+      <edge source="Argentina" target="Brazilian Island" id="26" weight="1.0" />
+      <edge source="Argentina" target="Chile" id="27" weight="1.0" />
+      <edge source="Argentina" target="Paraguay" id="28" weight="1.0" />
+      <edge source="Argentina" target="Southern Patagonian Ice Field" id="29" weight="1.0" />
+      <edge source="Argentina" target="Uruguay" id="30" weight="1.0" />
+      <edge source="Armenia" target="Azerbaijan" id="31" weight="1.0" />
+      <edge source="Armenia" target="Georgia" id="32" weight="1.0" />
+      <edge source="Armenia" target="Iran" id="33" weight="1.0" />
+      <edge source="Armenia" target="Turkey" id="34" weight="1.0" />
+      <edge source="Austria" target="Czechia" id="35" weight="1.0" />
+      <edge source="Austria" target="Germany" id="36" weight="1.0" />
+      <edge source="Austria" target="Hungary" id="37" weight="1.0" />
+      <edge source="Austria" target="Italy" id="38" weight="1.0" />
+      <edge source="Austria" target="Liechtenstein" id="39" weight="1.0" />
+      <edge source="Austria" target="Slovakia" id="40" weight="1.0" />
+      <edge source="Austria" target="Slovenia" id="41" weight="1.0" />
+      <edge source="Austria" target="Switzerland" id="42" weight="1.0" />
+      <edge source="Azerbaijan" target="Georgia" id="43" weight="1.0" />
+      <edge source="Azerbaijan" target="Iran" id="44" weight="1.0" />
+      <edge source="Azerbaijan" target="Russia" id="45" weight="1.0" />
+      <edge source="Azerbaijan" target="Turkey" id="46" weight="1.0" />
+      <edge source="Bangladesh" target="India" id="47" weight="1.0" />
+      <edge source="Bangladesh" target="Myanmar" id="48" weight="1.0" />
+      <edge source="Baykonur Cosmodrome" target="Kazakhstan" id="49" weight="1.0" />
+      <edge source="Belarus" target="Latvia" id="50" weight="1.0" />
+      <edge source="Belarus" target="Lithuania" id="51" weight="1.0" />
+      <edge source="Belarus" target="Poland" id="52" weight="1.0" />
+      <edge source="Belarus" target="Russia" id="53" weight="1.0" />
+      <edge source="Belarus" target="Ukraine" id="54" weight="1.0" />
+      <edge source="Belgium" target="France" id="55" weight="1.0" />
+      <edge source="Belgium" target="Germany" id="56" weight="1.0" />
+      <edge source="Belgium" target="Luxembourg" id="57" weight="1.0" />
+      <edge source="Belgium" target="Netherlands" id="58" weight="1.0" />
+      <edge source="Belize" target="Guatemala" id="59" weight="1.0" />
+      <edge source="Belize" target="Mexico" id="60" weight="1.0" />
+      <edge source="Benin" target="Burkina Faso" id="61" weight="1.0" />
+      <edge source="Benin" target="Niger" id="62" weight="1.0" />
+      <edge source="Benin" target="Nigeria" id="63" weight="1.0" />
+      <edge source="Benin" target="Togo" id="64" weight="1.0" />
+      <edge source="Bhutan" target="China" id="65" weight="1.0" />
+      <edge source="Bhutan" target="India" id="66" weight="1.0" />
+      <edge source="Bir Tawil" target="Egypt" id="67" weight="1.0" />
+      <edge source="Bir Tawil" target="Sudan" id="68" weight="1.0" />
+      <edge source="Bolivia" target="Brazil" id="69" weight="1.0" />
+      <edge source="Bolivia" target="Chile" id="70" weight="1.0" />
+      <edge source="Bolivia" target="Paraguay" id="71" weight="1.0" />
+      <edge source="Bolivia" target="Peru" id="72" weight="1.0" />
+      <edge source="Bosnia and Herzegovina" target="Croatia" id="73" weight="1.0" />
+      <edge source="Bosnia and Herzegovina" target="Montenegro" id="74" weight="1.0" />
+      <edge source="Bosnia and Herzegovina" target="Republic of Serbia" id="75" weight="1.0" />
+      <edge source="Botswana" target="Namibia" id="76" weight="1.0" />
+      <edge source="Botswana" target="South Africa" id="77" weight="1.0" />
+      <edge source="Botswana" target="Zambia" id="78" weight="1.0" />
+      <edge source="Botswana" target="Zimbabwe" id="79" weight="1.0" />
+      <edge source="Brazil" target="Brazilian Island" id="80" weight="1.0" />
+      <edge source="Brazil" target="Colombia" id="81" weight="1.0" />
+      <edge source="Brazil" target="France" id="82" weight="1.0" />
+      <edge source="Brazil" target="Guyana" id="83" weight="1.0" />
+      <edge source="Brazil" target="Paraguay" id="84" weight="1.0" />
+      <edge source="Brazil" target="Peru" id="85" weight="1.0" />
+      <edge source="Brazil" target="Suriname" id="86" weight="1.0" />
+      <edge source="Brazil" target="Uruguay" id="87" weight="1.0" />
+      <edge source="Brazil" target="Venezuela" id="88" weight="1.0" />
+      <edge source="Brazilian Island" target="Uruguay" id="89" weight="1.0" />
+      <edge source="Brunei" target="Malaysia" id="90" weight="1.0" />
+      <edge source="Bulgaria" target="Greece" id="91" weight="1.0" />
+      <edge source="Bulgaria" target="North Macedonia" id="92" weight="1.0" />
+      <edge source="Bulgaria" target="Republic of Serbia" id="93" weight="1.0" />
+      <edge source="Bulgaria" target="Romania" id="94" weight="1.0" />
+      <edge source="Bulgaria" target="Turkey" id="95" weight="1.0" />
+      <edge source="Burkina Faso" target="Ghana" id="96" weight="1.0" />
+      <edge source="Burkina Faso" target="Ivory Coast" id="97" weight="1.0" />
+      <edge source="Burkina Faso" target="Mali" id="98" weight="1.0" />
+      <edge source="Burkina Faso" target="Niger" id="99" weight="1.0" />
+      <edge source="Burkina Faso" target="Togo" id="100" weight="1.0" />
+      <edge source="Burundi" target="Democratic Republic of the Congo" id="101" weight="1.0" />
+      <edge source="Burundi" target="Rwanda" id="102" weight="1.0" />
+      <edge source="Burundi" target="United Republic of Tanzania" id="103" weight="1.0" />
+      <edge source="Cambodia" target="Laos" id="104" weight="1.0" />
+      <edge source="Cambodia" target="Thailand" id="105" weight="1.0" />
+      <edge source="Cambodia" target="Vietnam" id="106" weight="1.0" />
+      <edge source="Cameroon" target="Central African Republic" id="107" weight="1.0" />
+      <edge source="Cameroon" target="Chad" id="108" weight="1.0" />
+      <edge source="Cameroon" target="Equatorial Guinea" id="109" weight="1.0" />
+      <edge source="Cameroon" target="Gabon" id="110" weight="1.0" />
+      <edge source="Cameroon" target="Nigeria" id="111" weight="1.0" />
+      <edge source="Cameroon" target="Republic of the Congo" id="112" weight="1.0" />
+      <edge source="Canada" target="United States of America" id="113" weight="1.0" />
+      <edge source="Central African Republic" target="Chad" id="114" weight="1.0" />
+      <edge source="Central African Republic" target="Democratic Republic of the Congo" id="115" weight="1.0" />
+      <edge source="Central African Republic" target="Republic of the Congo" id="116" weight="1.0" />
+      <edge source="Central African Republic" target="South Sudan" id="117" weight="1.0" />
+      <edge source="Central African Republic" target="Sudan" id="118" weight="1.0" />
+      <edge source="Chad" target="Libya" id="119" weight="1.0" />
+      <edge source="Chad" target="Niger" id="120" weight="1.0" />
+      <edge source="Chad" target="Nigeria" id="121" weight="1.0" />
+      <edge source="Chad" target="Sudan" id="122" weight="1.0" />
+      <edge source="Chile" target="Peru" id="123" weight="1.0" />
+      <edge source="Chile" target="Southern Patagonian Ice Field" id="124" weight="1.0" />
+      <edge source="China" target="Hong Kong S.A.R." id="125" weight="1.0" />
+      <edge source="China" target="India" id="126" weight="1.0" />
+      <edge source="China" target="Kazakhstan" id="127" weight="1.0" />
+      <edge source="China" target="Kyrgyzstan" id="128" weight="1.0" />
+      <edge source="China" target="Laos" id="129" weight="1.0" />
+      <edge source="China" target="Mongolia" id="130" weight="1.0" />
+      <edge source="China" target="Myanmar" id="131" weight="1.0" />
+      <edge source="China" target="Nepal" id="132" weight="1.0" />
+      <edge source="China" target="North Korea" id="133" weight="1.0" />
+      <edge source="China" target="Pakistan" id="134" weight="1.0" />
+      <edge source="China" target="Russia" id="135" weight="1.0" />
+      <edge source="China" target="Siachen Glacier" id="136" weight="1.0" />
+      <edge source="China" target="Tajikistan" id="137" weight="1.0" />
+      <edge source="China" target="Vietnam" id="138" weight="1.0" />
+      <edge source="Colombia" target="Ecuador" id="139" weight="1.0" />
+      <edge source="Colombia" target="Panama" id="140" weight="1.0" />
+      <edge source="Colombia" target="Peru" id="141" weight="1.0" />
+      <edge source="Colombia" target="Venezuela" id="142" weight="1.0" />
+      <edge source="Costa Rica" target="Nicaragua" id="143" weight="1.0" />
+      <edge source="Costa Rica" target="Panama" id="144" weight="1.0" />
+      <edge source="Croatia" target="Hungary" id="145" weight="1.0" />
+      <edge source="Croatia" target="Montenegro" id="146" weight="1.0" />
+      <edge source="Croatia" target="Republic of Serbia" id="147" weight="1.0" />
+      <edge source="Croatia" target="Slovenia" id="148" weight="1.0" />
+      <edge source="Cuba" target="US Naval Base Guantanamo Bay" id="149" weight="1.0" />
+      <edge source="Cyprus" target="Cyprus No Mans Area" id="150" weight="1.0" />
+      <edge source="Cyprus" target="Dhekelia Sovereign Base Area" id="151" weight="1.0" />
+      <edge source="Cyprus No Mans Area" target="Dhekelia Sovereign Base Area" id="152" weight="1.0" />
+      <edge source="Cyprus No Mans Area" target="Northern Cyprus" id="153" weight="1.0" />
+      <edge source="Czechia" target="Germany" id="154" weight="1.0" />
+      <edge source="Czechia" target="Poland" id="155" weight="1.0" />
+      <edge source="Czechia" target="Slovakia" id="156" weight="1.0" />
+      <edge source="Democratic Republic of the Congo" target="Republic of the Congo" id="157" weight="1.0" />
+      <edge source="Democratic Republic of the Congo" target="Rwanda" id="158" weight="1.0" />
+      <edge source="Democratic Republic of the Congo" target="South Sudan" id="159" weight="1.0" />
+      <edge source="Democratic Republic of the Congo" target="Uganda" id="160" weight="1.0" />
+      <edge source="Democratic Republic of the Congo" target="United Republic of Tanzania" id="161" weight="1.0" />
+      <edge source="Democratic Republic of the Congo" target="Zambia" id="162" weight="1.0" />
+      <edge source="Denmark" target="Germany" id="163" weight="1.0" />
+      <edge source="Dhekelia Sovereign Base Area" target="Northern Cyprus" id="164" weight="1.0" />
+      <edge source="Djibouti" target="Eritrea" id="165" weight="1.0" />
+      <edge source="Djibouti" target="Ethiopia" id="166" weight="1.0" />
+      <edge source="Djibouti" target="Somaliland" id="167" weight="1.0" />
+      <edge source="Dominican Republic" target="Haiti" id="168" weight="1.0" />
+      <edge source="East Timor" target="Indonesia" id="169" weight="1.0" />
+      <edge source="Ecuador" target="Peru" id="170" weight="1.0" />
+      <edge source="Egypt" target="Israel" id="171" weight="1.0" />
+      <edge source="Egypt" target="Libya" id="172" weight="1.0" />
+      <edge source="Egypt" target="Palestine" id="173" weight="1.0" />
+      <edge source="Egypt" target="Sudan" id="174" weight="1.0" />
+      <edge source="El Salvador" target="Guatemala" id="175" weight="1.0" />
+      <edge source="El Salvador" target="Honduras" id="176" weight="1.0" />
+      <edge source="Equatorial Guinea" target="Gabon" id="177" weight="1.0" />
+      <edge source="Eritrea" target="Ethiopia" id="178" weight="1.0" />
+      <edge source="Eritrea" target="Sudan" id="179" weight="1.0" />
+      <edge source="Estonia" target="Latvia" id="180" weight="1.0" />
+      <edge source="Estonia" target="Russia" id="181" weight="1.0" />
+      <edge source="Ethiopia" target="Kenya" id="182" weight="1.0" />
+      <edge source="Ethiopia" target="Somalia" id="183" weight="1.0" />
+      <edge source="Ethiopia" target="Somaliland" id="184" weight="1.0" />
+      <edge source="Ethiopia" target="South Sudan" id="185" weight="1.0" />
+      <edge source="Ethiopia" target="Sudan" id="186" weight="1.0" />
+      <edge source="Finland" target="Norway" id="187" weight="1.0" />
+      <edge source="Finland" target="Russia" id="188" weight="1.0" />
+      <edge source="Finland" target="Sweden" id="189" weight="1.0" />
+      <edge source="France" target="Germany" id="190" weight="1.0" />
+      <edge source="France" target="Italy" id="191" weight="1.0" />
+      <edge source="France" target="Luxembourg" id="192" weight="1.0" />
+      <edge source="France" target="Monaco" id="193" weight="1.0" />
+      <edge source="France" target="Spain" id="194" weight="1.0" />
+      <edge source="France" target="Suriname" id="195" weight="1.0" />
+      <edge source="France" target="Switzerland" id="196" weight="1.0" />
+      <edge source="Gabon" target="Republic of the Congo" id="197" weight="1.0" />
+      <edge source="Gambia" target="Senegal" id="198" weight="1.0" />
+      <edge source="Georgia" target="Russia" id="199" weight="1.0" />
+      <edge source="Georgia" target="Turkey" id="200" weight="1.0" />
+      <edge source="Germany" target="Luxembourg" id="201" weight="1.0" />
+      <edge source="Germany" target="Netherlands" id="202" weight="1.0" />
+      <edge source="Germany" target="Poland" id="203" weight="1.0" />
+      <edge source="Germany" target="Switzerland" id="204" weight="1.0" />
+      <edge source="Ghana" target="Ivory Coast" id="205" weight="1.0" />
+      <edge source="Ghana" target="Togo" id="206" weight="1.0" />
+      <edge source="Gibraltar" target="Spain" id="207" weight="1.0" />
+      <edge source="Greece" target="North Macedonia" id="208" weight="1.0" />
+      <edge source="Greece" target="Turkey" id="209" weight="1.0" />
+      <edge source="Guatemala" target="Honduras" id="210" weight="1.0" />
+      <edge source="Guatemala" target="Mexico" id="211" weight="1.0" />
+      <edge source="Guinea" target="Guinea-Bissau" id="212" weight="1.0" />
+      <edge source="Guinea" target="Ivory Coast" id="213" weight="1.0" />
+      <edge source="Guinea" target="Liberia" id="214" weight="1.0" />
+      <edge source="Guinea" target="Mali" id="215" weight="1.0" />
+      <edge source="Guinea" target="Senegal" id="216" weight="1.0" />
+      <edge source="Guinea" target="Sierra Leone" id="217" weight="1.0" />
+      <edge source="Guinea-Bissau" target="Senegal" id="218" weight="1.0" />
+      <edge source="Guyana" target="Suriname" id="219" weight="1.0" />
+      <edge source="Guyana" target="Venezuela" id="220" weight="1.0" />
+      <edge source="Honduras" target="Nicaragua" id="221" weight="1.0" />
+      <edge source="Hungary" target="Republic of Serbia" id="222" weight="1.0" />
+      <edge source="Hungary" target="Romania" id="223" weight="1.0" />
+      <edge source="Hungary" target="Slovakia" id="224" weight="1.0" />
+      <edge source="Hungary" target="Slovenia" id="225" weight="1.0" />
+      <edge source="Hungary" target="Ukraine" id="226" weight="1.0" />
+      <edge source="India" target="Myanmar" id="227" weight="1.0" />
+      <edge source="India" target="Nepal" id="228" weight="1.0" />
+      <edge source="India" target="Pakistan" id="229" weight="1.0" />
+      <edge source="India" target="Siachen Glacier" id="230" weight="1.0" />
+      <edge source="Indonesia" target="Malaysia" id="231" weight="1.0" />
+      <edge source="Indonesia" target="Papua New Guinea" id="232" weight="1.0" />
+      <edge source="Iran" target="Iraq" id="233" weight="1.0" />
+      <edge source="Iran" target="Pakistan" id="234" weight="1.0" />
+      <edge source="Iran" target="Turkey" id="235" weight="1.0" />
+      <edge source="Iran" target="Turkmenistan" id="236" weight="1.0" />
+      <edge source="Iraq" target="Jordan" id="237" weight="1.0" />
+      <edge source="Iraq" target="Kuwait" id="238" weight="1.0" />
+      <edge source="Iraq" target="Saudi Arabia" id="239" weight="1.0" />
+      <edge source="Iraq" target="Syria" id="240" weight="1.0" />
+      <edge source="Iraq" target="Turkey" id="241" weight="1.0" />
+      <edge source="Ireland" target="United Kingdom" id="242" weight="1.0" />
+      <edge source="Israel" target="Jordan" id="243" weight="1.0" />
+      <edge source="Israel" target="Lebanon" id="244" weight="1.0" />
+      <edge source="Israel" target="Palestine" id="245" weight="1.0" />
+      <edge source="Israel" target="Syria" id="246" weight="1.0" />
+      <edge source="Italy" target="San Marino" id="247" weight="1.0" />
+      <edge source="Italy" target="Slovenia" id="248" weight="1.0" />
+      <edge source="Italy" target="Switzerland" id="249" weight="1.0" />
+      <edge source="Italy" target="Vatican" id="250" weight="1.0" />
+      <edge source="Ivory Coast" target="Liberia" id="251" weight="1.0" />
+      <edge source="Ivory Coast" target="Mali" id="252" weight="1.0" />
+      <edge source="Jordan" target="Palestine" id="253" weight="1.0" />
+      <edge source="Jordan" target="Saudi Arabia" id="254" weight="1.0" />
+      <edge source="Jordan" target="Syria" id="255" weight="1.0" />
+      <edge source="Kazakhstan" target="Kyrgyzstan" id="256" weight="1.0" />
+      <edge source="Kazakhstan" target="Russia" id="257" weight="1.0" />
+      <edge source="Kazakhstan" target="Turkmenistan" id="258" weight="1.0" />
+      <edge source="Kazakhstan" target="Uzbekistan" id="259" weight="1.0" />
+      <edge source="Kenya" target="Somalia" id="260" weight="1.0" />
+      <edge source="Kenya" target="South Sudan" id="261" weight="1.0" />
+      <edge source="Kenya" target="Uganda" id="262" weight="1.0" />
+      <edge source="Kenya" target="United Republic of Tanzania" id="263" weight="1.0" />
+      <edge source="Kosovo" target="Montenegro" id="264" weight="1.0" />
+      <edge source="Kosovo" target="North Macedonia" id="265" weight="1.0" />
+      <edge source="Kosovo" target="Republic of Serbia" id="266" weight="1.0" />
+      <edge source="Kuwait" target="Saudi Arabia" id="267" weight="1.0" />
+      <edge source="Kyrgyzstan" target="Tajikistan" id="268" weight="1.0" />
+      <edge source="Kyrgyzstan" target="Uzbekistan" id="269" weight="1.0" />
+      <edge source="Laos" target="Myanmar" id="270" weight="1.0" />
+      <edge source="Laos" target="Thailand" id="271" weight="1.0" />
+      <edge source="Laos" target="Vietnam" id="272" weight="1.0" />
+      <edge source="Latvia" target="Lithuania" id="273" weight="1.0" />
+      <edge source="Latvia" target="Russia" id="274" weight="1.0" />
+      <edge source="Lebanon" target="Syria" id="275" weight="1.0" />
+      <edge source="Lesotho" target="South Africa" id="276" weight="1.0" />
+      <edge source="Liberia" target="Sierra Leone" id="277" weight="1.0" />
+      <edge source="Libya" target="Niger" id="278" weight="1.0" />
+      <edge source="Libya" target="Sudan" id="279" weight="1.0" />
+      <edge source="Libya" target="Tunisia" id="280" weight="1.0" />
+      <edge source="Liechtenstein" target="Switzerland" id="281" weight="1.0" />
+      <edge source="Lithuania" target="Poland" id="282" weight="1.0" />
+      <edge source="Lithuania" target="Russia" id="283" weight="1.0" />
+      <edge source="Malawi" target="Mozambique" id="284" weight="1.0" />
+      <edge source="Malawi" target="United Republic of Tanzania" id="285" weight="1.0" />
+      <edge source="Malawi" target="Zambia" id="286" weight="1.0" />
+      <edge source="Malaysia" target="Thailand" id="287" weight="1.0" />
+      <edge source="Mali" target="Mauritania" id="288" weight="1.0" />
+      <edge source="Mali" target="Niger" id="289" weight="1.0" />
+      <edge source="Mali" target="Senegal" id="290" weight="1.0" />
+      <edge source="Mauritania" target="Senegal" id="291" weight="1.0" />
+      <edge source="Mauritania" target="Western Sahara" id="292" weight="1.0" />
+      <edge source="Mexico" target="United States of America" id="293" weight="1.0" />
+      <edge source="Moldova" target="Romania" id="294" weight="1.0" />
+      <edge source="Moldova" target="Ukraine" id="295" weight="1.0" />
+      <edge source="Mongolia" target="Russia" id="296" weight="1.0" />
+      <edge source="Montenegro" target="Republic of Serbia" id="297" weight="1.0" />
+      <edge source="Morocco" target="Spain" id="298" weight="1.0" />
+      <edge source="Morocco" target="Western Sahara" id="299" weight="1.0" />
+      <edge source="Mozambique" target="South Africa" id="300" weight="1.0" />
+      <edge source="Mozambique" target="United Republic of Tanzania" id="301" weight="1.0" />
+      <edge source="Mozambique" target="Zambia" id="302" weight="1.0" />
+      <edge source="Mozambique" target="Zimbabwe" id="303" weight="1.0" />
+      <edge source="Mozambique" target="eSwatini" id="304" weight="1.0" />
+      <edge source="Myanmar" target="Thailand" id="305" weight="1.0" />
+      <edge source="Namibia" target="South Africa" id="306" weight="1.0" />
+      <edge source="Namibia" target="Zambia" id="307" weight="1.0" />
+      <edge source="Namibia" target="Zimbabwe" id="308" weight="1.0" />
+      <edge source="Niger" target="Nigeria" id="309" weight="1.0" />
+      <edge source="North Korea" target="Russia" id="310" weight="1.0" />
+      <edge source="North Korea" target="South Korea" id="311" weight="1.0" />
+      <edge source="North Macedonia" target="Republic of Serbia" id="312" weight="1.0" />
+      <edge source="Norway" target="Russia" id="313" weight="1.0" />
+      <edge source="Norway" target="Sweden" id="314" weight="1.0" />
+      <edge source="Oman" target="Saudi Arabia" id="315" weight="1.0" />
+      <edge source="Oman" target="United Arab Emirates" id="316" weight="1.0" />
+      <edge source="Oman" target="Yemen" id="317" weight="1.0" />
+      <edge source="Pakistan" target="Siachen Glacier" id="318" weight="1.0" />
+      <edge source="Poland" target="Russia" id="319" weight="1.0" />
+      <edge source="Poland" target="Slovakia" id="320" weight="1.0" />
+      <edge source="Poland" target="Ukraine" id="321" weight="1.0" />
+      <edge source="Portugal" target="Spain" id="322" weight="1.0" />
+      <edge source="Qatar" target="Saudi Arabia" id="323" weight="1.0" />
+      <edge source="Republic of Serbia" target="Romania" id="324" weight="1.0" />
+      <edge source="Romania" target="Ukraine" id="325" weight="1.0" />
+      <edge source="Russia" target="Ukraine" id="326" weight="1.0" />
+      <edge source="Rwanda" target="Uganda" id="327" weight="1.0" />
+      <edge source="Rwanda" target="United Republic of Tanzania" id="328" weight="1.0" />
+      <edge source="Saint Martin" target="Sint Maarten" id="329" weight="1.0" />
+      <edge source="Saudi Arabia" target="United Arab Emirates" id="330" weight="1.0" />
+      <edge source="Saudi Arabia" target="Yemen" id="331" weight="1.0" />
+      <edge source="Slovakia" target="Ukraine" id="332" weight="1.0" />
+      <edge source="Somalia" target="Somaliland" id="333" weight="1.0" />
+      <edge source="South Africa" target="Zimbabwe" id="334" weight="1.0" />
+      <edge source="South Africa" target="eSwatini" id="335" weight="1.0" />
+      <edge source="South Sudan" target="Sudan" id="336" weight="1.0" />
+      <edge source="South Sudan" target="Uganda" id="337" weight="1.0" />
+      <edge source="Syria" target="Turkey" id="338" weight="1.0" />
+      <edge source="Tajikistan" target="Uzbekistan" id="339" weight="1.0" />
+      <edge source="Turkmenistan" target="Uzbekistan" id="340" weight="1.0" />
+      <edge source="Uganda" target="United Republic of Tanzania" id="341" weight="1.0" />
+      <edge source="United Republic of Tanzania" target="Zambia" id="342" weight="1.0" />
+      <edge source="Zambia" target="Zimbabwe" id="343" weight="1.0" />
+    </edges>
+  </graph>
+</gexf>

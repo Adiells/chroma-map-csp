@@ -3,6 +3,7 @@ from pathlib import Path
 import geobr
 import matplotlib.pyplot as plt
 import networkx as nx
+import geopandas as gpd
 
 try:
     from .solver import backtracking_search, verificar_solucao
@@ -33,6 +34,31 @@ def colorir_mapa(adjacencia):
     return resultado
 
 
+def gerar_mapa_mundo_colorido(resultado, caminho_saida):
+    caminho_saida = Path(caminho_saida)
+    caminho_saida.parent.mkdir(parents=True, exist_ok=True)
+    
+    # URL for the Natural Earth low-resolution world map
+    url = "https://naciscdn.org/naturalearth/110m/cultural/ne_110m_admin_0_countries.zip"
+    
+    print("Carregando o mapa mundi...")
+    mundo = gpd.read_file(url)
+    
+    # Mapear as cores utilizando a coluna 'ADMIN' que bate com os nós do grafo
+    mundo["cor_csp"] = mundo["ADMIN"].map(resultado)
+    
+    # Cor padrão para países que não receberam cor (caso haja)
+    mundo["cor_hex"] = mundo["cor_csp"].map(MAPA_CORES).fillna("#e0e0e0")
+    
+    fig, ax = plt.subplots(figsize=(15, 10))
+    mundo.plot(ax=ax, color=mundo["cor_hex"], edgecolor="white", linewidth=0.5)
+    ax.set_title("Coloração do Mapa Mundi via CSP")
+    ax.set_axis_off()
+    
+    plt.savefig(caminho_saida, dpi=150, bbox_inches="tight")
+    print(f"Mapa mundi colorido salvo em: {caminho_saida}")
+    plt.close(fig)
+
 def gerar_mapa_colorido(resultado, caminho_saida):
     caminho_saida = Path(caminho_saida)
     caminho_saida.parent.mkdir(parents=True, exist_ok=True)
@@ -51,5 +77,3 @@ def gerar_mapa_colorido(resultado, caminho_saida):
     ax.set_title("Coloração de Mapa via CSP - Regiões Reais")
     ax.set_axis_off()
     plt.savefig(caminho_saida, dpi=150, bbox_inches="tight")
-    plt.show()
-    plt.close(fig)
