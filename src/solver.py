@@ -1,4 +1,7 @@
-import src.heuristicas as heuristicas
+try:
+    import src.heuristicas as heuristicas
+except ModuleNotFoundError:
+    import heuristicas as heuristicas
 
 def consistente(no, cor, atribuicao, grafo):
     for vizinho in grafo[no]:

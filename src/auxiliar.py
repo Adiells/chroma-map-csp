@@ -2,6 +2,7 @@ from pathlib import Path
 
 import geobr
 import matplotlib.pyplot as plt
+import matplotlib.patches as mpatches
 import networkx as nx
 import geopandas as gpd
 
@@ -17,6 +18,12 @@ MAPA_CORES = {
     "Verde": "#2ecc71",
     "Azul": "#3498db",
     "Amarelo": "#f1c40f",
+}
+FREQUENCIAS = {
+    "Vermelho": "Frequência 1 (ex: 700MHz)",
+    "Verde": "Frequência 2 (ex: 850MHz)",
+    "Azul": "Frequência 3 (ex: 900MHz)",
+    "Amarelo": "Frequência 4 (ex: 1800MHz)"
 }
 
 
@@ -54,8 +61,7 @@ def gerar_mapa_mundo_colorido(resultado, caminho_saida):
     mundo.plot(ax=ax, color=mundo["cor_hex"], edgecolor="white", linewidth=0.5)
     ax.set_title("Coloração do Mapa Mundi via CSP")
     ax.set_axis_off()
-    
-    plt.savefig(caminho_saida, dpi=150, bbox_inches="tight")
+
     print(f"Mapa mundi colorido salvo em: {caminho_saida}")
     plt.close(fig)
 
@@ -73,7 +79,19 @@ def gerar_mapa_colorido(resultado, caminho_saida):
     estados["cor_hex"] = estados["cor_csp"].map(MAPA_CORES)
 
     fig, ax = plt.subplots(figsize=(10, 10))
-    estados.plot(ax=ax, color=estados["cor_hex"], edgecolor="white", linewidth=0.8)
+    estados.plot(ax=ax, color=estados["cor_hex"], edgecolor="white", linewidth=0.8) #type:ignore
     ax.set_title("Coloração de Mapa via CSP - Regiões Reais")
     ax.set_axis_off()
+    plt.savefig(caminho_saida, dpi=150, bbox_inches="tight")
+
+    # plota frequencias
+    legendas = [
+        mpatches.Patch(color=MAPA_CORES[cor_nome], label=freq_nome)
+        for cor_nome, freq_nome in FREQUENCIAS.items()
+    ]
+    # Posiciona a legenda no mapa
+    ax.legend(handles=legendas, title="Frequências Alocadas", loc="lower left", frameon=True)
+    # ---------------------------------------------------------
+
+    
     plt.savefig(caminho_saida, dpi=150, bbox_inches="tight")
