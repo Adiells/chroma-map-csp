@@ -26,12 +26,12 @@ def carregar_adjacencia(caminho_grafo):
 
 
 def colorir_mapa(adjacencia):
-    resultado = backtracking_search(adjacencia, CORES)
+    resultado, arvore = backtracking_search(adjacencia, CORES)
 
     if not verificar_solucao(resultado, adjacencia):
         raise ValueError("Não foi possível encontrar uma coloração válida.")
 
-    return resultado
+    return resultado, arvore
 
 
 def gerar_mapa_mundo_colorido(resultado, caminho_saida):
@@ -77,3 +77,31 @@ def gerar_mapa_colorido(resultado, caminho_saida):
     ax.set_title("Coloração de Mapa via CSP - Regiões Reais")
     ax.set_axis_off()
     plt.savefig(caminho_saida, dpi=150, bbox_inches="tight")
+
+def desenhar_arvore(arvore, caminho_saida): #função pra plotar a árvore
+    caminho_saida = Path(caminho_saida)
+    caminho_saida.parent.mkdir(parents=True, exist_ok=True)
+
+    pos = nx.drawing.nx_pydot.graphviz_layout(arvore, prog="dot")
+
+    labels = nx.get_node_attributes(arvore, "label")
+
+    cores_nos = []
+
+    for no in arvore.nodes:
+        if no == 0:
+            cores_nos.append("lightblue")   # raiz
+        elif arvore.nodes[no].get("valido", True):
+            cores_nos.append("lightgreen")  # tentativa válida
+        else:
+            cores_nos.append("red") # tentativa errada
+
+    plt.figure(figsize=(25, 18))
+
+    nx.draw(arvore, pos, labels=labels, node_size=900, node_color=cores_nos, font_size=7, arrows=False)
+
+    plt.title("Árvore de Busca do Backtracking")
+
+    plt.savefig(caminho_saida, dpi=200, bbox_inches="tight")
+
+    plt.close()
