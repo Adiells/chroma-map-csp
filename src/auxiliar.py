@@ -95,3 +95,56 @@ def gerar_mapa_colorido(resultado, caminho_saida):
 
     
     plt.savefig(caminho_saida, dpi=150, bbox_inches="tight")
+
+def gerar_grafo_colorido(caminho_grafo, resultado, caminho_saida):
+    
+    caminho_saida = Path(caminho_saida)
+    caminho_saida.parent.mkdir(parents=True, exist_ok=True)
+    
+    # 1. Carrega o grafo original com todas as propriedades (arestas e posições)
+    grafo = nx.read_gexf(caminho_grafo)
+    
+    # 2. Mapeia as posições X e Y de cada nó para que o grafo tenha o formato do mapa
+    posicoes = {}
+    for no, dados in grafo.nodes(data=True):
+        x = float(dados['x'])
+        y = float(dados['y'])
+        
+        # Mantendo o seu ajuste fino para o Distrito Federal não sobrepor Goiás
+        if no == "Distrito Federal":
+            y += 0.8
+            
+        posicoes[no] = (x, y)
+        
+    # 3. Cria uma lista sequencial de cores na mesma ordem que o NetworkX lista os nós
+    cores_dos_nos = [MAPA_CORES[resultado[no]] for no in grafo.nodes()]
+    
+    # 4. Configura a plotagem
+    fig, ax = plt.subplots(figsize=(10, 10))
+    
+    nx.draw(
+        grafo, 
+        pos=posicoes, 
+        ax=ax, 
+        node_color=cores_dos_nos, 
+        with_labels=True, 
+        node_size=900,        # Tamanho das bolinhas
+        font_size=8, 
+        font_weight='bold', 
+        font_color='black',
+        edge_color='gray',    # Cor das linhas de conexão
+        linewidths=1.5,
+        edgecolors='black'    # Bordinha preta em volta dos nós
+    )
+    
+    # Adiciona a legenda de frequências
+    legendas = [
+        mpatches.Patch(color=MAPA_CORES[cor_nome], label=freq_nome)
+        for cor_nome, freq_nome in FREQUENCIAS.items()
+    ]
+    ax.legend(handles=legendas, title="Frequências (Grafo)", loc="lower left", frameon=True)
+    
+    ax.set_title("Topologia da Rede de Restrições - Brasil")
+    plt.savefig(caminho_saida, dpi=150, bbox_inches="tight")
+    print(f"Grafo de conexões salvo em: {caminho_saida}")
+    plt.close(fig)
